@@ -15,7 +15,7 @@ University of Texas, Health Science Center at Houston <br />
 
 Email : Miran.Kim at uth dot tmc dot edu or miran5004 at gmail dot com
 
-+1 (713) 500- 3988
+Phone: +1 (713) 500- 3988
 
 ## Research Interest
 My research interest is
