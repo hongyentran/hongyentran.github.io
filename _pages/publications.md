@@ -33,7 +33,7 @@ author_profile: true
   
   1. SECRET: Secure Edit-distance Computation over homomoRphic Encrypted daTa [[pdf]](https://k-miran.github.io/files/2015_EditDist_BCB.pdf)
       * Yuchen Zhang, Wenrui Dai, Shuang Wang, Miran Kim, Kristin Lauter, Jun Sakuma, Hongkai Xiong, Xiaoqian Jiang
-      * In _TBC_ _(Annual Translational Bioinformatics Conference)_ _2015
+      * In _TBC_ _(Annual Translational Bioinformatics Conference)_ _2015_
       
       
    1. Search-and-compute on encrypted data [[pdf]](https://k-miran.github.io/files/2015_PSnC_WAHC.pdf)
@@ -49,7 +49,7 @@ author_profile: true
 ## Journals
   1. Logistic regression model training based on the approximate homomorphic encryption [[pdf]](https://k-miran.github.io/files/2018_BMC_idash17.pdf)
       * Andrey Kim, Yongsoo Song, Miran Kim, Kiwoo Lee, Jung Hee Cheon
-      * BMC Medical Genomics 2018
+      * In _BMC Medical Genomics 2018_
   
   
   1. SecureLR: Secure Logistic Regression model via a hybrid cryptographic protocol [[pdf]](https://k-miran.github.io/files/2018_sgx_IEEE.pdf)
