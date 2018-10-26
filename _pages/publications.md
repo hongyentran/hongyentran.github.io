@@ -8,7 +8,7 @@ author_profile: true
 ## Conferences
   1. Secure outsourced matrix computation and application to neural networks [[pdf]](https://k-miran.github.io/files/2018_HEMat_CCS.pdf)
       * Xiaoqian Jiang, Miran Kim, Kristin Lauter, Yongsoo Song
-      * The 25th ACM Conference on Computer and Communications Security (CCS 2018)
+      * In _CCS (25th ACM Conference on Computer and Communications Security) 2018
    
    
   1. A full RNS Variant of approximate homomorphic encryption [[pdf]](https://k-miran.github.io/files/2018_RNS_SAC.pdf)
