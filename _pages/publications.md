@@ -11,9 +11,9 @@ author_profile: true
       * In _CCS_ _(ACM Conference on Computer and Communications Security)_ _2018_
    
    
-  1. A full RNS Variant of approximate homomorphic encryption [[pdf]](https://k-miran.github.io/files/2018_RNS_SAC.pdf)
+  * A full RNS Variant of approximate homomorphic encryption [[pdf]](https://k-miran.github.io/files/2018_RNS_SAC.pdf)
       * Jung Hee Cheon, Kyoohyung Han, Andrey Kim, Miran Kim, Yongsoo Song
-      * The 25th Conference on Selected Areas in Cryptography (SAC 2018)
+      * In _SAC_ _(International Conference on Selected Areas in Cryptography)_ _2018_
 
 
   1. Bootstrapping for approximate homomorphic encryption [[pdf]](https://k-miran.github.io/files/2018_BTS_Euro.pdf)
