@@ -18,17 +18,17 @@ author_profile: true
 
   1. Bootstrapping for approximate homomorphic encryption [[pdf]](https://k-miran.github.io/files/2018_BTS_Euro.pdf)
       * Jung Hee Cheon, Kyoohyung Han, Andrey Kim, Miran Kim, Yongsoo Song
-      * The 37th Annual International Conference on the Theory and Applications of Cryptographic Techniques (EUROCRYPT 2018)
+      * In _EUROCRYPT_ _(Annual International Conference on the Theory and Applications of Cryptographic Techniques)_ _2018_
     
     
   1. Homomorphic encryption for arithmetic of approximate numbers [[pdf]](https://k-miran.github.io/files/2017_HEAAN_Asia.pdf)
       * Jung Hee Cheon, Andrey Kim, Miran Kim, Yongsoo Song
-      * The 23rd International Conference on the Theory and Applications of Cryptology and Information Security (ASIACRYPT 2017) 
+      * In _ASIACRYPT_ _(International Conference on the Theory and Applications of Cryptology and Information Security)_ _2017_ 
      
      
   1. Encrypting controller using fully homomorphic encryption for security of cyber-physical systems [[pdf]](https://k-miran.github.io/files/2016_necsys.pdf)
       * Junsoo Kim, Chanhwa Lee, Hyungboo Shim, Jung Hee Cheon, Andrey Kim, Miran Kim, Yongsoo Song
-      * The 6th IFAC Workshop on Distributed Estimation and Control in Networked Systems (NECSYS 2016)
+      * In _NECSYS_ _(IFAC Workshop on Distributed Estimation and Control in Networked Systems)_ _2016_
   
   
   1. SECRET: Secure Edit-distance Computation over homomoRphic Encrypted daTa [[pdf]](https://k-miran.github.io/files/2015_EditDist_BCB.pdf)
