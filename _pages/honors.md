@@ -17,11 +17,11 @@ author_profile: true
   
   * Second Prize, iDASH Genomic Data Privacy and Security Protection Competition 2016 [[URL]](http://www.humangenomeprivacy.org/2016/)
 
-  * Grand Prize Crypto Contest Oct 2016. Korea Cryptography Forum
+  * Grand Prize Crypto Contest Oct 2016. Korea Cryptography Forum [[URL]](http://www.etnews.com/20161123000272)
 
   * Special Prize Crypto Contest Nov 2015. Korea Cryptography Forum
 
-  * First Prize, iDASH Genomic Data Privacy and Security Protection Competition 2015 [[URL]](http://www.humangenomeprivacy.org/2015)
+  * First Prize, iDASH Genomic Data Privacy and Security Protection Competition 2015 [[URL]](http://www.humangenomeprivacy.org/2015) [[Media]](http://blogs.technet.com/b/inside_microsoft_research/archive/2015/03/20/cryptographers-challenge-keeping-genetic-secrets-while-advancing-genetic-research.aspx) [[Media]](http://news.donga.com/3/all/20150313/70100744/1)
 
   
   
