@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Conferences
-  1. Secure outsourced matrix computation and application to neural networks [[pdf]](https://k-miran.github.io/files/2018_HEMat_CCS.pdf)
+  * Secure outsourced matrix computation and application to neural networks [[pdf]](https://k-miran.github.io/files/2018_HEMat_CCS.pdf)
       * Xiaoqian Jiang, Miran Kim, Kristin Lauter, Yongsoo Song
       * In _CCS_ _(ACM Conference on Computer and Communications Security)_ _2018_
    
