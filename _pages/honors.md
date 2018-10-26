@@ -7,7 +7,7 @@ author_profile: true
 
   * First Prize, iDASH Genomic Data Privacy and Security Protection Competition 2018 [[URL]](http://www.humangenomeprivacy.org/2018/)
   
-  * NC Cultural Foundation Awards for Young Korean Female Mathematicians 2018 [[URL]](http://www.kwms.or.kr/index.php?mp=5_4)
+  * NC Cultural Foundation Awards for Young Korean Female Mathematicians 2018 [[URL]](http://www.kwms.or.kr/index.php?mt=page&mp=5_4&mm=oxbbs&oxid=63&cpage=1&key=&val=&CAT_ID=0&BID=1003&cmd=view)
   
   * Nominated at Marquis’s Who’s Who in the World 2018. Marquis’s Who’s Who.
 
