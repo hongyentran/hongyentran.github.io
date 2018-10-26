@@ -14,7 +14,7 @@ This is the front page of a website that is powered by the [academicpages templa
 University of Texas, Health Science Center at Houston <br />
 7000 Fannin St, Houston, TX, 77030, United States
 
-Email : Miran.Kim at uth dot tmc dot edu <br /> or miran5004 at gmail dot com
+Email : Miran.Kim at uth dot tmc dot edu or miran5004 at gmail dot com
 
 +1 (713) 500- 3988
 
