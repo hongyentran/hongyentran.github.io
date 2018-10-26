@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Miran Kim"
-  avatar           : "profile.png"
+  avatar           : "Miran.png"
   bio              : "Assistant professor at UTHealth"
   location         : "Houston, Texas, United States"
   employer         :
@@ -223,15 +223,6 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
   # _talks
   - scope:
       path: ""
