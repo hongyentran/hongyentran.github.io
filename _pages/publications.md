@@ -16,9 +16,23 @@ author_profile: true
       * The 25th Conference on Selected Areas in Cryptography (SAC 2018)
       * [[pdf]](https://k-miran.github.io/files/2018_RNS_SAC.pdf)
       
+  1. Bootstrapping for Approximate Homomorphic Encryption
+      * Jung Hee Cheon, Kyoohyung Han, Andrey Kim, Miran Kim, Yongsoo Song
+      * The 37th Annual International Conference on the Theory and Applications of Cryptographic Techniques (EUROCRYPT 2018)
+      * [[pdf]](https://k-miran.github.io/files/2018_BTS_Euro.pdf) 
       
 ## Journals
   1. Logistic Regression Model Training based on the Approximate Homomorphic Encryption
       * Andrey Kim, Yongsoo Song, Miran Kim, Kiwoo Lee, Jung Hee Cheon
       * BMC Medical Genomics 2018
       * [[pdf]](https://k-miran.github.io/files/2018_BMC_idash17.pdf)
+      
+  1. SecureLR: Secure Logistic Regression Model via a Hybrid Cryptographic Protocol
+      * Yichen Jiang, Jenny Hamer, Chenghong Wang, Xiaoqian Jiang, Miran Kim, Yongsoo Song, Yuhou Xia, Noman Mohammed, Md Nazmus Sadat, Shuang Wang
+      * IEEE/ACM Transactions on Computational Biology and Bioinformatics 2018
+      * [[pdf]](https://k-miran.github.io/files/papers/2018_sgx_IEEE.pdf)
+      
+  1. Secure Logistic Regression Based on Homomorphic Encryption: Design and Evaluation
+      * Miran Kim, Yongsoo Song, Shuang Wang, Yuhou Xia, Xiaoqian Jiang
+      * JMIR Medical Informatics 2018
+      * [[pdf]](https://k-miran.github.io/files/2018_HELR_JMIR.pdf)
