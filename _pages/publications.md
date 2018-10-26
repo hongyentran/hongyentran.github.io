@@ -21,6 +21,17 @@ author_profile: true
       * The 37th Annual International Conference on the Theory and Applications of Cryptographic Techniques (EUROCRYPT 2018)
       * [[pdf]](https://k-miran.github.io/files/2018_BTS_Euro.pdf) 
       
+  1. Homomorphic Encryption for Arithmetic of Approximate Numbers
+      * Jung Hee Cheon, Andrey Kim, Miran Kim, Yongsoo Song
+      * The 23rd International Conference on the Theory and Applications of Cryptology and Information Security (ASIACRYPT 2017)
+      * [[pdf]](https://k-miran.github.io/files/papers/2017_HEAAN_Asia.pdf)
+      
+  1. Encrypting Controller using Fully Homomorphic Encryption for Security of Cyber-Physical Systems
+      * Junsoo Kim, Chanhwa Lee, Hyungboo Shim, Jung Hee Cheon, Andrey Kim, Miran Kim, Yongsoo Song
+      * The 6th IFAC Workshop on Distributed Estimation and Control in Networked Systems (NECSYS 2016)
+      * [[pdf]](https://k-miran.github.io/files/2016_necsys.pdf)
+      
+      
 ## Journals
   1. Logistic Regression Model Training based on the Approximate Homomorphic Encryption
       * Andrey Kim, Yongsoo Song, Miran Kim, Kiwoo Lee, Jung Hee Cheon
@@ -36,3 +47,8 @@ author_profile: true
       * Miran Kim, Yongsoo Song, Shuang Wang, Yuhou Xia, Xiaoqian Jiang
       * JMIR Medical Informatics 2018
       * [[pdf]](https://k-miran.github.io/files/2018_HELR_JMIR.pdf)
+
+  1. Secure Searching of Biomarkers Using Hybrid Homomorphic Encryption Scheme
+      * Miran Kim, Yongsoo Song, Jung Hee Cheon
+      * BMC Medical Genomics 2017
+      * [[pdf]](https://k-miran.github.io/files/2016_BMC_idash16.pdf)
