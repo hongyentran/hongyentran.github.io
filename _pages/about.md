@@ -16,7 +16,7 @@ University of Texas, Health Science Center at Houston
 
 ### Email
 
-Professional: Miran.Kim at uth dot tmc dot edu <br />
+Email : Miran.Kim at uth dot tmc dot edu <br />
 Personal: miran5004 at gmail dot com
 
 ### Phone
