@@ -13,14 +13,7 @@ This is the front page of a website that is powered by the [academicpages templa
 ### Office
 University of Texas, Health Science Center at Houston
 7000 Fannin St, Houston, TX, 77030, United States
-
-### Email
-
-Email : Miran.Kim at uth dot tmc dot edu <br />
-Personal: miran5004 at gmail dot com
-
-### Phone
-
+Email : Miran.Kim at uth dot tmc dot edu <br />. or miran5004 at gmail dot com
 +1 (713) 500- 3988
 
 
