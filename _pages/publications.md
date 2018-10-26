@@ -33,17 +33,17 @@ author_profile: true
   
   1. SECRET: Secure Edit-distance Computation over homomoRphic Encrypted daTa [[pdf]](https://k-miran.github.io/files/2015_EditDist_BCB.pdf)
       * Yuchen Zhang, Wenrui Dai, Shuang Wang, Miran Kim, Kristin Lauter, Jun Sakuma, Hongkai Xiong, Xiaoqian Jiang
-      * Annual Translational Bioinformatics Conference (TBC 2015)
+      * In _TBC_ _(Annual Translational Bioinformatics Conference)_ _2015
       
       
    1. Search-and-compute on encrypted data [[pdf]](https://k-miran.github.io/files/2015_PSnC_WAHC.pdf)
       * Jung Hee Cheon, Miran Kim, Myungsun Kim
-      * Financial Cryptography and Data Security (FC 2015)
+      * In _FC_ _(Financial Cryptography and Data Security Workshop)_ _2015_
       
       
    1. Homomorphic computation of edit distance [[pdf]](https://k-miran.github.io/files/2015_EditDist_WAHC.pdf)
       * Jung Hee Cheon, Miran Kim, Kristin Lauter
-      * Financial Cryptography and Data Security (FC 2015)
+      * In _FC_ _(Financial Cryptography and Data Security Workshop)_ _2015_
       
       
 ## Journals
