@@ -39,7 +39,7 @@ author_profile: true
    1. Search-and-Compute on Encrypted Data
       * Jung Hee Cheon, Miran Kim, Myungsun Kim
       * Financial Cryptography and Data Security (FC 2015)
-      * [[pdf]](https://k-miran.github.io/files/2015_PSnc_WAHC.pdf)
+      * [[pdf]](https://k-miran.github.io/files/2015_PSnC_WAHC.pdf)
       
    1. Homomorphic Computation of Edit Distance
       * Jung Hee Cheon, Miran Kim, Kristin Lauter
@@ -70,7 +70,7 @@ author_profile: true
   1. Optimized Search-and-Compute Circuits and Their Application to Query Evaluation on Encrypted Data
       * Jung Hee Cheon, Miran Kim, Myungsun Kim
       * IEEE Transactions on Information Forensics and Security 2016
-      * [[pdf]](https://k-miran.github.io/files/2016_PSnc_IFTS.pdf)
+      * [[pdf]](https://k-miran.github.io/files/2016_PSnC_IFTS.pdf)
       
   1. HEALER: homomorphic computation of ExAct Logistic rEgRession for secure rare disease variants analysis in GWAS
       * Shuang Wang, Yuchen Zhang, Wenrui Dai, Kristin Lauter, Miran Kim, Yuzhe Tang, Hongkai Xiong, Xiaoqian Jiang
@@ -81,3 +81,10 @@ author_profile: true
       * Miran Kim, Kristin Lauter
       * BMC Medical Genomics 2015
       * [[pdf]](https://k-miran.github.io/files/2015_BMC_idash15.pdf)
+
+      
+## Manuscripts
+  1. A standard API FOR RLWE-based homomorphic encryption
+      * Michael Brenner, Wei Dai, Shai Halevi, Kyoohyung Han, Amir Jalali, Miran Kim, Kim Laine, Alex Malozemoff, Pascal Paillier, Yuriy Polyakov, Kurt Rohloff, Erkay Savas, Berk Sunar
+      * 2017
+      * Available at [[homomorphicencryption.org]](http://homomorphicencryption.org)
