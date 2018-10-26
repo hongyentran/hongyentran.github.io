@@ -12,8 +12,8 @@ redirect_from:
 Education
 ======
 * B.S. in Mathematical Education, Seoul National University, February 2010
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.S. in Mathematical Sciences, Seoul National University, February 2012
+* Ph.D in Mathematical Sciences, Seoul National University, February 2017
 
 Work experience
 ======
@@ -26,6 +26,10 @@ Work experience
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
+  
+* Summer 2015: Research Intern
+  * Microsoft Research
+  * Supervisor: Kristin Lauter
   
 Skills
 ======
