@@ -10,7 +10,7 @@ redirect_from:
 
 
 ## About me
-I joined the UTHealth School of Biomedical Informatics (SBMI) at University of Texas, Health Science Center at Houston on May 1, 2018 as an assistant professor. <br />
+I joined the [UTHealth School of Biomedical Informatics (SBMI)](https://sbmi.uth.edu/faculty-and-staff/miran-kim.htm) at University of Texas, Health Science Center at Houston on May 1, 2018 as an assistant professor. <br />
 Before arriving at SBMI, Kim was a post-doctoral researcher at the Division of Biomedical Informatics of UC San Diego. 
  <br />
 I obtained my Ph.D. degrees in mathematical sciences from Seoul National University, Korea, in 2017. My advisor was [Prof. Jung Hee Cheon](http://www.math.snu.ac.kr/~jhcheon/xe2/).
