@@ -6,19 +6,19 @@ author_profile: true
 ---
 
 ## Conferences
-  * Secure outsourced matrix computation and application to neural networks [[pdf]](https://k-miran.github.io/files/2018_HEMat_CCS.pdf)
+  * Secure outsourced matrix computation and application to neural networks [[pdf]](https://k-miran.github.io/files/2018_HEMat_CCS.pdf) [[code]](https://github.com/K-miran/HEMat)
       * Xiaoqian Jiang, Miran Kim, Kristin Lauter, Yongsoo Song
       * In _CCS (ACM Conference on Computer and Communications Security) 2018_
    
-  * A full RNS Variant of approximate homomorphic encryption [[pdf]](https://k-miran.github.io/files/2018_RNS_SAC.pdf)
+  * A full RNS Variant of approximate homomorphic encryption [[pdf]](https://k-miran.github.io/files/2018_RNS_SAC.pdf) [[code]](https://github.com/HanKyoohyung/FullRNS-HEAAN)
       * Jung Hee Cheon, Kyoohyung Han, Andrey Kim, Miran Kim, Yongsoo Song
       * In _SAC (International Conference on Selected Areas in Cryptography) 2018_
 
-  * Bootstrapping for approximate homomorphic encryption [[pdf]](https://k-miran.github.io/files/2018_BTS_Euro.pdf)
+  * Bootstrapping for approximate homomorphic encryption [[pdf]](https://k-miran.github.io/files/2018_BTS_Euro.pdf) [[code]](https://github.com/kimandrik/HEAANBOOT)
       * Jung Hee Cheon, Kyoohyung Han, Andrey Kim, Miran Kim, Yongsoo Song
       * In _EUROCRYPT (Annual International Conference on the Theory and Applications of Cryptographic Techniques) 2018_
     
-  * Homomorphic encryption for arithmetic of approximate numbers [[pdf]](https://k-miran.github.io/files/2017_HEAAN_Asia.pdf)
+  * Homomorphic encryption for arithmetic of approximate numbers [[pdf]](https://k-miran.github.io/files/2017_HEAAN_Asia.pdf) [[code]](https://github.com/kimandrik/HEAAN)
       * Jung Hee Cheon, Andrey Kim, Miran Kim, Yongsoo Song
       * In _ASIACRYPT (International Conference on the Theory and Applications of Cryptology and Information Security) 2017_ 
      
@@ -41,7 +41,7 @@ author_profile: true
       
       
 ## Journals
-  * Logistic regression model training based on the approximate homomorphic encryption [[pdf]](https://k-miran.github.io/files/2018_BMC_idash17.pdf)
+  * Logistic regression model training based on the approximate homomorphic encryption [[pdf]](https://k-miran.github.io/files/2018_BMC_idash17.pdf) [[code]](https://github.com/kimandrik/IDASH2017)
       * Andrey Kim, Yongsoo Song, Miran Kim, Kiwoo Lee, Jung Hee Cheon
       * In _BMC Medical Genomics 2018_
   
@@ -49,11 +49,11 @@ author_profile: true
       * Yichen Jiang, Jenny Hamer, Chenghong Wang, Xiaoqian Jiang, Miran Kim, Yongsoo Song, Yuhou Xia, Noman Mohammed, Md Nazmus Sadat, Shuang Wang
       * In _IEEE/ACM Transactions on Computational Biology and Bioinformatics 2018_
       
- * Secure logistic regression based on homomorphic encryption: design and evaluation [[pdf]](https://k-miran.github.io/files/2018_HELR_JMIR.pdf)
+ * Secure logistic regression based on homomorphic encryption: design and evaluation [[pdf]](https://k-miran.github.io/files/2018_HELR_JMIR.pdf) [[code]](https://github.com/K-miran/HELR)
       * Miran Kim, Yongsoo Song, Shuang Wang, Yuhou Xia, Xiaoqian Jiang
       * In _JMIR Medical Informatics 2018_
 
-  * Secure searching of biomarkers using hybrid homomorphic encryption scheme [[pdf]](https://k-miran.github.io/files/2017_BMC_idash16.pdf)
+  * Secure searching of biomarkers using hybrid homomorphic encryption scheme [[pdf]](https://k-miran.github.io/files/2017_BMC_idash16.pdf) [[code]](https://github.com/K-miran/HybridHE)
       * Miran Kim, Yongsoo Song, Jung Hee Cheon
       * In _BMC Medical Genomics 2017_
      
