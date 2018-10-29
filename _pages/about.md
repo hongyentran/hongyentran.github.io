@@ -16,7 +16,7 @@ Email : Miran.Kim at uth dot tmc dot edu or miran5004 at gmail dot com <br />
 Phone: +1 (713) 500- 3988
 
 ## Research Interest
-My research focuses on the design of novel strategies to enable secure and privacy-preserving data analysis. I have an extensive experience in implementation of efficient protocols for data query processing, genomic computation, and cyber-physical systems. In 2015, 2017, and 2018, I received HLI awards for genome data privacy challenges of iDASH Genome Privacy & Security competition supported by National Institutes of Health.
+My research focuses on the design of novel strategies to enable secure and privacy-preserving data analysis. I have an extensive experience in implementation of efficient protocols for data query processing, genomic computation, and cyber-physical systems. In 2015, 2017, and 2018, I received the first prizes on secure outsourcing tasks of genome data privacy challenges at iDASH Genome Privacy & Security competition (supported by National Institutes of Health).
 
   * Areas of Expertise
       * Cryptography
