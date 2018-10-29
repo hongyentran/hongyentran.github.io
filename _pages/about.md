@@ -10,12 +10,14 @@ redirect_from:
 
 
 ## About me
-University of Texas, Health Science Center at Houston <br />
-7000 Fannin St, Houston, TX, 77030, United States
+I joined the UTHealth School of Biomedical Informatics (SBMI) at University of Texas, Health Science Center at Houston on May 1, 2018 as an assistant professor. <br />
+Before arriving at SBMI, Kim was a post-doctoral researcher at the Division of Biomedical Informatics of UC San Diego. 
+ <br />
+I obtained my Ph.D. degrees in mathematical sciences from Seoul National University, Korea, in 2017. My advisor was [Prof. Jung Hee Cheon](http://www.math.snu.ac.kr/~jhcheon/xe2/).
 
 Email : Miran.Kim at uth dot tmc dot edu or miran5004 at gmail dot com
 
 Phone: +1 (713) 500- 3988
 
 ## Research Interest
-My research interest is
+My research focuses on the design of novel strategies to enable secure and privacy-preserving data analysis. She has an extensive experience in implementation of efficient protocols for data query processing, genomic computation, and cyber-physical systems. In 2015 and 2017, she received HLI awards for genome data privacy challenges of iDASH Genome Privacy & Security competition.
