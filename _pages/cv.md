@@ -15,13 +15,13 @@ Education
 * M.S. in Mathematical Sciences, Seoul National University, February 2012
 * Ph.D in Mathematical Sciences, Seoul National University, February 2017
   * Research area: Cryptography
-  * Advisor: Dr. Jung Hee Cheon
+  * Advisor: Dr. [Jung Hee Cheon](http://www.math.snu.ac.kr/~jhcheon/xe2/)
 
 Work experience
 ======
 * Spring 2015: Research Intern
   * Microsoft Research
-  * Supervisor: Dr. Kristin Lauter
+  * Supervisor: Dr. [Kristin Lauter](https://www.microsoft.com/en-us/research/people/klauter/?from=http%3A%2F%2Fresearch.microsoft.com%2F%7Eklauter%2F)
   
 * March 2017 - April 2018: Postdoctoral Researcher
   * Division of Biomedical Informatics, University of California, San Diego
