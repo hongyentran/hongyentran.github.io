@@ -8,15 +8,15 @@ author_profile: true
 ## Conferences
   * Secure outsourced matrix computation and application to neural networks [[pdf]](https://k-miran.github.io/files/2018_HEMat_CCS.pdf) [[code]](https://github.com/K-miran/HEMat)
       * Xiaoqian Jiang, Miran Kim, Kristin Lauter, Yongsoo Song
-      * In _CCS (ACM Conference on Computer and Communications Security) 2018_
+      * In proceedings of _CCS (ACM Conference on Computer and Communications Security) 2018_
    
   * A full RNS Variant of approximate homomorphic encryption [[pdf]](https://k-miran.github.io/files/2018_RNS_SAC.pdf) [[code]](https://github.com/HanKyoohyung/FullRNS-HEAAN)
       * Jung Hee Cheon, Kyoohyung Han, Andrey Kim, Miran Kim, Yongsoo Song
-      * In _SAC (International Conference on Selected Areas in Cryptography) 2018_
+      * In proceedings of _SAC (International Conference on Selected Areas in Cryptography) 2018_
 
   * Bootstrapping for approximate homomorphic encryption [[pdf]](https://k-miran.github.io/files/2018_BTS_Euro.pdf) [[code]](https://github.com/kimandrik/HEAANBOOT)
       * Jung Hee Cheon, Kyoohyung Han, Andrey Kim, Miran Kim, Yongsoo Song
-      * In _EUROCRYPT (Annual International Conference on the Theory and Applications of Cryptographic Techniques) 2018_
+      * In proceedings of _EUROCRYPT (Annual International Conference on the Theory and Applications of Cryptographic Techniques) 2018_
     
   * Homomorphic encryption for arithmetic of approximate numbers [[pdf]](https://k-miran.github.io/files/2017_HEAAN_Asia.pdf) [[code]](https://github.com/kimandrik/HEAAN)
       * Jung Hee Cheon, Andrey Kim, Miran Kim, Yongsoo Song
