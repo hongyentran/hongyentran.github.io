@@ -18,7 +18,7 @@ author_profile: true
       * Jung Hee Cheon, Kyoohyung Han, Andrey Kim, Miran Kim, Yongsoo Song
       * In proceedings of _EUROCRYPT (Annual International Conference on the Theory and Applications of Cryptographic Techniques) 2018_
     
-  * Homomorphic encryption for arithmetic of approximate numbers [[pdf]](https://k-miran.github.io/files/2017_HEAAN_Asia.pdf) [[code]](https://github.com/kimandrik/HEAAN)
+  * Homomorphic encryption for arithmetic of approximate numbers [[pdf]](https://k-miran.github.io/files/2017_HEAAN_Asia.pdf) [[code]](https://github.com/snucrypto/HEAAN)
       * Jung Hee Cheon, Andrey Kim, Miran Kim, Yongsoo Song
       * In proceedings of _ASIACRYPT (International Conference on the Theory and Applications of Cryptology and Information Security) 2017_ 
      
