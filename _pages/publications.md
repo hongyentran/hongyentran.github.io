@@ -20,24 +20,24 @@ author_profile: true
     
   * Homomorphic encryption for arithmetic of approximate numbers [[pdf]](https://k-miran.github.io/files/2017_HEAAN_Asia.pdf) [[code]](https://github.com/kimandrik/HEAAN)
       * Jung Hee Cheon, Andrey Kim, Miran Kim, Yongsoo Song
-      * In _ASIACRYPT (International Conference on the Theory and Applications of Cryptology and Information Security) 2017_ 
+      * In proceedings of _ASIACRYPT (International Conference on the Theory and Applications of Cryptology and Information Security) 2017_ 
      
   * Encrypting controller using fully homomorphic encryption for security of cyber-physical systems [[pdf]](https://k-miran.github.io/files/2016_necsys.pdf)
       * Junsoo Kim, Chanhwa Lee, Hyungboo Shim, Jung Hee Cheon, Andrey Kim, Miran Kim, Yongsoo Song
-      * In _NECSYS (IFAC Workshop on Distributed Estimation and Control in Networked Systems) 2016_
+      * In proceedings of _NECSYS (IFAC Workshop on Distributed Estimation and Control in Networked Systems) 2016_
   
   
   * SECRET: Secure Edit-distance Computation over homomoRphic Encrypted daTa [[pdf]](https://k-miran.github.io/files/2015_EditDist_BCB.pdf)
       * Yuchen Zhang, Wenrui Dai, Shuang Wang, Miran Kim, Kristin Lauter, Jun Sakuma, Hongkai Xiong, Xiaoqian Jiang
-      * In _TBC (Annual Translational Bioinformatics Conference) 2015_
+      * In proceedings of _TBC (Annual Translational Bioinformatics Conference) 2015_
       
   * Search-and-compute on encrypted data [[pdf]](https://k-miran.github.io/files/2015_PSnC_WAHC.pdf)
       * Jung Hee Cheon, Miran Kim, Myungsun Kim
-      * In _FC (Financial Cryptography and Data Security Workshop) 2015_
+      * In proceedings of _FC (Financial Cryptography and Data Security Workshop) 2015_
        
   * Homomorphic computation of edit distance [[pdf]](https://k-miran.github.io/files/2015_EditDist_WAHC.pdf)
       * Jung Hee Cheon, Miran Kim, Kristin Lauter
-      * In _FC (Financial Cryptography and Data Security Workshop) 2015_
+      * In proceedings of _FC (Financial Cryptography and Data Security Workshop) 2015_
       
       
 ## Journals
