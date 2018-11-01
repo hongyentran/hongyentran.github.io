@@ -46,7 +46,7 @@ author_profile: true
       
   * Optimized search-and-compute circuits and their application to query evaluation on encrypted data [[pdf]](https://k-miran.github.io/files/2016_PSnC_IFTS.pdf)
       * Jung Hee Cheon, Miran Kim, Myungsun Kim
-      * _IEEE Transactions on Information Forensics and Security 11(1), 188--199_, 2016
+      * _IEEE Transactions on Information Forensics and Security 11(1):188--199_, 2016
   
 ## 2015
   * SECRET: Secure Edit-distance Computation over homomoRphic Encrypted daTa [[pdf]](https://k-miran.github.io/files/2015_EditDist_BCB.pdf)
@@ -63,7 +63,7 @@ author_profile: true
         
   * HEALER: homomorphic computation of ExAct Logistic rEgRession for secure rare disease variants analysis in GWAS [[pdf]](https://k-miran.github.io/files/2015_HEALER_Bioinformatics.pdf)
       * Shuang Wang, Yuchen Zhang, Wenrui Dai, Kristin Lauter, Miran Kim, Yuzhe Tang, Hongkai Xiong, Xiaoqian Jiang
-      * _Bioinformatics 32(2), 211--218_, 2015
+      * _Bioinformatics 32(2):211--218_, 2015
       
   * Private genome analysis through homomorphic encryption [[pdf]](https://k-miran.github.io/files/2015_BMC_idash15.pdf)
       * Miran Kim, Kristin Lauter
