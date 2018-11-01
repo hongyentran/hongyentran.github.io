@@ -48,27 +48,27 @@ author_profile: true
       * Jung Hee Cheon, Miran Kim, Myungsun Kim
       * _IEEE Transactions on Information Forensics and Security 11(1):188--199_, 2016
   
-## 2015
-  * SECRET: Secure Edit-distance Computation over homomoRphic Encrypted daTa [[pdf]](https://k-miran.github.io/files/2015_EditDist_BCB.pdf)
+   * HEALER: homomorphic computation of ExAct Logistic rEgRession for secure rare disease variants analysis in GWAS [[pdf]](https://k-miran.github.io/files/2015_HEALER_Bioinformatics.pdf)
+      * Shuang Wang, Yuchen Zhang, Wenrui Dai, Kristin Lauter, Miran Kim, Yuzhe Tang, Hongkai Xiong, Xiaoqian Jiang
+      * _Bioinformatics 32(2):211--218_, 2016
+      
+## 2015   
+
+  * Private genome analysis through homomorphic encryption [[pdf]](https://k-miran.github.io/files/2015_BMC_idash15.pdf)
+      * Miran Kim, Kristin Lauter
+      * _BMC Medical Genomics 15(Suppl 5):S3_, 2015
+      
+   * SECRET: Secure Edit-distance Computation over homomoRphic Encrypted daTa [[pdf]](https://k-miran.github.io/files/2015_EditDist_BCB.pdf)
       * Yuchen Zhang, Wenrui Dai, Shuang Wang, Miran Kim, Kristin Lauter, Jun Sakuma, Hongkai Xiong, Xiaoqian Jiang
       * _TBC (Annual Translational Bioinformatics Conference)_, 2015
       
-  * Search-and-compute on encrypted data [[pdf]](https://k-miran.github.io/files/2015_PSnC_WAHC.pdf)
+   * Search-and-compute on encrypted data [[pdf]](https://k-miran.github.io/files/2015_PSnC_WAHC.pdf)
       * Jung Hee Cheon, Miran Kim, Myungsun Kim
       * _FC (Financial Cryptography and Data Security Workshop)_, 2015
        
   * Homomorphic computation of edit distance [[pdf]](https://k-miran.github.io/files/2015_EditDist_WAHC.pdf)
       * Jung Hee Cheon, Miran Kim, Kristin Lauter
-      * _FC (Financial Cryptography and Data Security Workshop)_, 2015
-        
-  * HEALER: homomorphic computation of ExAct Logistic rEgRession for secure rare disease variants analysis in GWAS [[pdf]](https://k-miran.github.io/files/2015_HEALER_Bioinformatics.pdf)
-      * Shuang Wang, Yuchen Zhang, Wenrui Dai, Kristin Lauter, Miran Kim, Yuzhe Tang, Hongkai Xiong, Xiaoqian Jiang
-      * _Bioinformatics 32(2):211--218_, 2015
-      
-  * Private genome analysis through homomorphic encryption [[pdf]](https://k-miran.github.io/files/2015_BMC_idash15.pdf)
-      * Miran Kim, Kristin Lauter
-      * _BMC Medical Genomics 15(Suppl 5):S3_, 2015
-
+      * _FC (Financial Cryptography and Data Security Workshop)_, 2015    
       
 ## Manuscripts
   *  A standard API FOR RLWE-based homomorphic encryption
