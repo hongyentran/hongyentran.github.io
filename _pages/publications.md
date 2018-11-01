@@ -16,7 +16,7 @@ author_profile: true
 
   * Bootstrapping for approximate homomorphic encryption [[pdf]](https://k-miran.github.io/files/2018_BTS_Euro.pdf) [[code]](https://github.com/kimandrik/HEAANBOOT)
       * Jung Hee Cheon, Kyoohyung Han, Andrey Kim, Miran Kim, Yongsoo Song
-      * _EUROCRYPT (Annual International Conference on the Theory and Applications of Cryptographic Techniques)_, 2018
+      * _EUROCRYPT_, 2018
  
   * Logistic regression model training based on the approximate homomorphic encryption [[pdf]](https://k-miran.github.io/files/2018_BMC_idash17.pdf) [[code]](https://github.com/kimandrik/IDASH2017)
       * Andrey Kim, Yongsoo Song, Miran Kim, Kiwoo Lee, Jung Hee Cheon
@@ -33,7 +33,7 @@ author_profile: true
 ## 2017
   * Homomorphic encryption for arithmetic of approximate numbers [[pdf]](https://k-miran.github.io/files/2017_HEAAN_Asia.pdf) [[code]](https://github.com/snucrypto/HEAAN)
       * Jung Hee Cheon, Andrey Kim, Miran Kim, Yongsoo Song
-      * _ASIACRYPT (International Conference on the Theory and Applications of Cryptology and Information Security)_, 2017 
+      * _ASIACRYPT_, 2017 
   
    * Secure searching of biomarkers using hybrid homomorphic encryption scheme [[pdf]](https://k-miran.github.io/files/2017_BMC_idash16.pdf) [[code]](https://github.com/K-miran/HybridHE)
       * Miran Kim, Yongsoo Song, Jung Hee Cheon
