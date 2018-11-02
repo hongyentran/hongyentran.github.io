@@ -71,10 +71,9 @@ author_profile: true
       * _FC (Financial Cryptography and Data Security Workshop)_, 2015    
       
 ## Manuscripts
-   *  A standard API FOR RLWE-based homomorphic encryption
+   *  A standard API FOR RLWE-based homomorphic encryption [[url]](http://homomorphicencryption.org)
       * Michael Brenner, Wei Dai, Shai Halevi, Kyoohyung Han, Amir Jalali, **Miran Kim**, Kim Laine, Alex Malozemoff, Pascal Paillier, Yuriy Polyakov, Kurt Rohloff, Erkay Savas, Berk Sunar
       * 2017
-      * Available at [[homomorphicencryption.org]](http://homomorphicencryption.org)
 
 ## Patent
   *  Protection of Cyber-Physical Systems with Homomorphic Encryption
