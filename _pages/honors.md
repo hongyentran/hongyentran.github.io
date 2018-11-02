@@ -14,7 +14,7 @@ author_profile: true
   * Nominated at Marquis’s Who’s Who in the World 2018. Marquis’s Who’s Who.
 
   * First Prize, iDASH Genomic Data Privacy and Security Protection Competition 2017 [[URL]](http://www.humangenomeprivacy.org/2017/)
-      ** Secure logistic regression model training 
+      * Secure logistic regression model training Miran.jpg
   
   * Excellence Award, Crypto Contest Oct 2017. Korea Cryptography Forum 
   
