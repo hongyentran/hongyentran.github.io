@@ -26,7 +26,7 @@ author_profile: true
       * Yichen Jiang, Jenny Hamer, Chenghong Wang, Xiaoqian Jiang, **Miran Kim**, Yongsoo Song, Yuhou Xia, Noman Mohammed, Md Nazmus Sadat, Shuang Wang
       * _IEEE/ACM Transactions on Computational Biology and Bioinformatics_, 2018
       
- * Secure logistic regression based on homomorphic encryption: design and evaluation [[pdf]](https://k-miran.github.io/files/2018_HELR_JMIR.pdf) [[code]](https://github.com/K-miran/HELR)
+  * Secure logistic regression based on homomorphic encryption: design and evaluation [[pdf]](https://k-miran.github.io/files/2018_HELR_JMIR.pdf) [[code]](https://github.com/K-miran/HELR)
       * **Miran Kim**, Yongsoo Song, Shuang Wang, Yuhou Xia, Xiaoqian Jiang
       * _JMIR Medical Informatics 6(2)_, 2018
 
@@ -35,7 +35,7 @@ author_profile: true
       * Jung Hee Cheon, Andrey Kim, **Miran Kim**, Yongsoo Song
       * _ASIACRYPT_, 2017 
   
-   * Secure searching of biomarkers using hybrid homomorphic encryption scheme [[pdf]](https://k-miran.github.io/files/2017_BMC_idash16.pdf) [[code]](https://github.com/K-miran/HybridHE)
+  * Secure searching of biomarkers using hybrid homomorphic encryption scheme [[pdf]](https://k-miran.github.io/files/2017_BMC_idash16.pdf) [[code]](https://github.com/K-miran/HybridHE)
       * **Miran Kim**, Yongsoo Song, Jung Hee Cheon
       * _BMC Medical Genomics 10(42)_, 2017
       
@@ -48,7 +48,7 @@ author_profile: true
       * Jung Hee Cheon, **Miran Kim**, Myungsun Kim
       * _IEEE Transactions on Information Forensics and Security 11(1):188--199_, 2016
   
-   * HEALER: homomorphic computation of ExAct Logistic rEgRession for secure rare disease variants analysis in GWAS [[pdf]](https://k-miran.github.io/files/2015_HEALER_Bioinformatics.pdf)
+  * HEALER: homomorphic computation of ExAct Logistic rEgRession for secure rare disease variants analysis in GWAS [[pdf]](https://k-miran.github.io/files/2015_HEALER_Bioinformatics.pdf)
       * Shuang Wang, Yuchen Zhang, Wenrui Dai, Kristin Lauter, **Miran Kim**, Yuzhe Tang, Hongkai Xiong, Xiaoqian Jiang
       * _Bioinformatics 32(2):211--218_, 2016
       
@@ -66,12 +66,30 @@ author_profile: true
       * Jung Hee Cheon, **Miran Kim**, Myungsun Kim
       * _FC (Financial Cryptography and Data Security Workshop)_, 2015
        
-  * Homomorphic computation of edit distance [[pdf]](https://k-miran.github.io/files/2015_EditDist_WAHC.pdf)
+   * Homomorphic computation of edit distance [[pdf]](https://k-miran.github.io/files/2015_EditDist_WAHC.pdf)
       * Jung Hee Cheon, **Miran Kim**, Kristin Lauter
       * _FC (Financial Cryptography and Data Security Workshop)_, 2015    
       
 ## Manuscripts
-  *  A standard API FOR RLWE-based homomorphic encryption
+   *  A standard API FOR RLWE-based homomorphic encryption
       * Michael Brenner, Wei Dai, Shai Halevi, Kyoohyung Han, Amir Jalali, **Miran Kim**, Kim Laine, Alex Malozemoff, Pascal Paillier, Yuriy Polyakov, Kurt Rohloff, Erkay Savas, Berk Sunar
       * 2017
       * Available at [[homomorphicencryption.org]](http://homomorphicencryption.org)
+
+## Patent
+  *  Protection of Cyber-Physical Systems with Homomorphic Encryption
+      * Yongsoo Song, Jung Hee Cheon, Hyungboo Shim, **Miran Kim**, Junsoo Kim, Chanhwa Lee
+      * KR Patent. 1020180092199, 2018.
+     
+  *  Method for Managing Data and Apparatuses therefor [[url]](https://patents.google.com/patent/US20170004324A1/en)
+      * Jae woo Seo, Jung Hee Cheon, **Miran Kim**, Myungsun Kim
+      * US Patent App. US20170004324A1, 2017.
+      
+  *  Method for Calculating Edit Distance Between DNA Genomic Sequence through Homomorphic Encryption
+      * Jung Hee Cheon, **Miran Kim**
+      * KR Patent. 1020160017708, 2016.
+  
+  *  A Method for Managing Data and Apparatuses therefor
+      * Jae woo Seo, Jung Hee Cheon, **Miran Kim**, Myungsun Kim
+      * KR Patent. 1020150094823, 2015.
+      
