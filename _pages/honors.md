@@ -8,6 +8,7 @@ author_profile: true
 ## Awards
       
   * First Prize, iDASH Genomic Data Privacy and Security Protection Competition 2018 [[URL]](http://www.humangenomeprivacy.org/2018/)
+      * Secure parallel Genome Wide Association Studies using homomorphic encryption [[Result]](https://k-miran.github.io/files/2018result.png)
   
   * NC Cultural Foundation Awards for Young Korean Female Mathematicians 2018 [[URL]](http://www.kwms.or.kr/index.php?mt=page&mp=5_4&mm=oxbbs&oxid=63&cpage=1&key=&val=&CAT_ID=0&BID=1003&cmd=view) 
   
