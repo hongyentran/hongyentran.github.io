@@ -7,7 +7,7 @@ author_profile: true
 
 ## 2018
   * Secure outsourced matrix computation and application to neural networks [[pdf]](https://k-miran.github.io/files/2018_HEMat_CCS.pdf) [[code]](https://github.com/K-miran/HEMat)
-      * Xiaoqian Jiang, Miran Kim, Kristin Lauter, Yongsoo Song
+      * Xiaoqian Jiang, **Miran Kim**, Kristin Lauter, Yongsoo Song
       * _CCS (ACM Conference on Computer and Communications Security)_, 2018
    
   * A full RNS Variant of approximate homomorphic encryption [[pdf]](https://k-miran.github.io/files/2018_RNS_SAC.pdf) [[code]](https://github.com/HanKyoohyung/FullRNS-HEAAN)
