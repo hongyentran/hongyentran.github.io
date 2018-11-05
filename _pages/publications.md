@@ -56,7 +56,7 @@ author_profile: true
 
   * Private genome analysis through homomorphic encryption [[pdf]](https://k-miran.github.io/files/2015_BMC_idash15.pdf)
       * **Miran Kim**, Kristin Lauter
-      * _BMC Medical Genomics 15(Suppl 5):S3_, 2015
+      * _BMC medical informatics and decision making 15(Suppl 5):S3_, 2015
       
    * SECRET: Secure Edit-distance Computation over homomoRphic Encrypted daTa [[pdf]](https://k-miran.github.io/files/2015_EditDist_BCB.pdf)
       * Yuchen Zhang, Wenrui Dai, Shuang Wang, **Miran Kim**, Kristin Lauter, Jun Sakuma, Hongkai Xiong, Xiaoqian Jiang
