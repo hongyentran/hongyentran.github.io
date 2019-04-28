@@ -5,6 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
+## 2019
+  * SecureLR: Secure Logistic Regression model via a hybrid cryptographic protocol [[pdf]](https://k-miran.github.io/files/2018_sgx_IEEE.pdf)
+      * Yichen Jiang, Jenny Hamer, Chenghong Wang, Xiaoqian Jiang, **Miran Kim**, Yongsoo Song, Yuhou Xia, Noman Mohammed, Md Nazmus Sadat, Shuang Wang
+      * _IEEE/ACM Transactions on Computational Biology and Bioinformatics 16(1):113--123_, 2019
+  
 ## 2018
   * Secure outsourced matrix computation and application to neural networks [[pdf]](https://k-miran.github.io/files/2018_HEMat_CCS.pdf) [[code]](https://github.com/K-miran/HEMat)
       * Xiaoqian Jiang, **Miran Kim**, Kristin Lauter, Yongsoo Song
@@ -21,11 +26,7 @@ author_profile: true
   * Logistic regression model training based on the approximate homomorphic encryption [[pdf]](https://k-miran.github.io/files/2018_BMC_idash17.pdf) [[code]](https://github.com/kimandrik/IDASH2017)
       * Andrey Kim, Yongsoo Song, **Miran Kim**, Kiwoo Lee, Jung Hee Cheon
       * _BMC Medical Genomics 11(Suppl 4):83_, 2018
-  
-  * SecureLR: Secure Logistic Regression model via a hybrid cryptographic protocol [[pdf]](https://k-miran.github.io/files/2018_sgx_IEEE.pdf)
-      * Yichen Jiang, Jenny Hamer, Chenghong Wang, Xiaoqian Jiang, **Miran Kim**, Yongsoo Song, Yuhou Xia, Noman Mohammed, Md Nazmus Sadat, Shuang Wang
-      * _IEEE/ACM Transactions on Computational Biology and Bioinformatics_, 2018
-      
+
   * Secure logistic regression based on homomorphic encryption: design and evaluation [[pdf]](https://k-miran.github.io/files/2018_HELR_JMIR.pdf) [[code]](https://github.com/K-miran/HELR)
       * **Miran Kim**, Yongsoo Song, Shuang Wang, Yuhou Xia, Xiaoqian Jiang
       * _JMIR Medical Informatics 6(2)_, 2018
