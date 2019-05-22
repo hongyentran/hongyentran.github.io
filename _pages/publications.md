@@ -7,7 +7,7 @@ author_profile: true
 
 ## 2019
   * Homomorphic encryption for protecting genome privacy [[pdf]](https://k-miran.github.io/files/2019_IEEE_BHI.pdf)
-      **Miran Kim**
+      * **Miran Kim**
       * IEEE EMBS International Conference on Biomedical and Health Informatics-BHI, 2019
       
   * SecureLR: Secure logistic regression model via a hybrid cryptographic protocol [[pdf]](https://k-miran.github.io/files/2018_sgx_IEEE.pdf)
