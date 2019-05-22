@@ -6,6 +6,10 @@ author_profile: true
 ---
 
 ## 2019
+  * Efficient Multi-Key Homomorphic Encryption with Packed Ciphertexts with Application to Oblivious Neural Network Inference [[pdf]](https://k-miran.github.io/files/2019_Packed_MKHE.pdf)
+      * Hao Chen, Wei Dai, **Miran Kim**, Yongsoo Song
+      * http://eprint.iacr.org/2019/524
+      
   * Homomorphic encryption for protecting genome privacy [[pdf]](https://k-miran.github.io/files/2019_IEEE_BHI.pdf)
       * **Miran Kim**
       * IEEE EMBS International Conference on Biomedical and Health Informatics-BHI, 2019
