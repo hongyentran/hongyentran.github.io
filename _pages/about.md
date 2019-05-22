@@ -13,7 +13,7 @@ redirect_from:
 I am an assistant professor of [School of Biomedical Informatics (SBMI)](https://sbmi.uth.edu/faculty-and-staff/miran-kim.htm) at the University of Texas, Health Science Center at Houston, where I have worked since May of 2018. From 2017-2018, I was  a post-doctoral researcher at the Division of Biomedical Informatics of University of California San Diego (hosted by Xiaoqian Jiang). I received my Ph.D. degree in mathematical sciences at Seoul National University in 2017 (advised by [Jung Hee Cheon](http://www.math.snu.ac.kr/~jhcheon/xe2/)).
 
 Email : Miran.Kim at uth dot tmc dot edu or miran5004 at gmail dot com <br />
-Webpage: https://sites.google.com/site/mirankim0618 <br />
+Webpage: [Google Site](https://sites.google.com/site/mirankim0618) <br />
 Phone: +1 (713) 500- 3988
 
 ## Research Interest
