@@ -6,7 +6,11 @@ author_profile: true
 ---
 
 ## 2019
-  * SecureLR: Secure Logistic Regression model via a hybrid cryptographic protocol [[pdf]](https://k-miran.github.io/files/2018_sgx_IEEE.pdf)
+  * Homomorphic encryption for protecting genome privacy [[pdf]](https://k-miran.github.io/files/2019_IEEE_BHI.pdf)
+      **Miran Kim**
+      * IEEE EMBS International Conference on Biomedical and Health Informatics-BHI, 2019
+      
+  * SecureLR: Secure logistic regression model via a hybrid cryptographic protocol [[pdf]](https://k-miran.github.io/files/2018_sgx_IEEE.pdf)
       * Yichen Jiang, Jenny Hamer, Chenghong Wang, Xiaoqian Jiang, **Miran Kim**, Yongsoo Song, Yuhou Xia, Noman Mohammed, Md Nazmus Sadat, Shuang Wang
       * _IEEE/ACM Transactions on Computational Biology and Bioinformatics 16(1):113--123_, 2019
   
