@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## 2019
-  * Secure and Differentially Private Logistic Regression for Horizontally Disributed Data
+  * Secure and Differentially Private Logistic Regression for Horizontally Distributed Data
       * Junghye Lee, **Miran Kim**, Lucila Ohno-Machado, Xiaoqian Jiang
       * To appear in IEEE Transactions on Information Forensics and Security, 2019.
       
