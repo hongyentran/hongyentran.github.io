@@ -31,5 +31,5 @@ Work experience
   * School of Biomedical Informatics, University of Texas, Health Science Center at Houston
 
 
-* [[See my CV]](https://k-miran.github.io/files/MiranKim_cv.pdf)
-
+[[See my CV]](https://k-miran.github.io/files/MiranKim_cv.pdf)
+======
