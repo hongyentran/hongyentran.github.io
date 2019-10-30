@@ -9,19 +9,19 @@ author_profile: true
       
   * Efficient Multi-Key Homomorphic Encryption with Packed Ciphertexts with Application to Oblivious Neural Network Inference [[pdf]](https://k-miran.github.io/files/2019_Packed_MKHE.pdf)
       * Hao Chen, Wei Dai, **Miran Kim**, Yongsoo Song
-      * http://eprint.iacr.org/2019/524
-  
-  * Semi-parallel Logistic Regression for GWAS on Encrypted Data
-      * **Miran Kim**, Yongsoo Song, Baiyu Li, Daniele Micciancio
-      * To appear in _BMC Medical Genomics_, 2019.
+      * _CCS (ACM Conference on Computer and Communications Security)_, 2019.
       
   * Secure and Differentially Private Logistic Regression for Horizontally Distributed Data
       * **Miran Kim**, Junghye Lee, Lucila Ohno-Machado, Xiaoqian Jiang
-      * To appear in _IEEE Transactions on Information Forensics and Security_, 2019.
+      * _IEEE Transactions on Information Forensics and Security 15(1):695-710_, 2019. 
       
+  * Semi-parallel Logistic Regression for GWAS on Encrypted Data
+      * **Miran Kim**, Yongsoo Song, Baiyu Li, Daniele Micciancio
+      * To appear in _BMC Medical Genomics_, 2019.
+     
   * Homomorphic encryption for protecting genome privacy [[pdf]](https://k-miran.github.io/files/2019_IEEE_BHI.pdf)
       * **Miran Kim**
-      * IEEE EMBS International Conference on Biomedical and Health Informatics-BHI, 2019.
+      * _IEEE EMBS International Conference on Biomedical and Health Informatics-BHI_, 2019.
       
   * SecureLR: Secure logistic regression model via a hybrid cryptographic protocol [[pdf]](https://k-miran.github.io/files/2018_sgx_IEEE.pdf)
       * Yichen Jiang, Jenny Hamer, Chenghong Wang, Xiaoqian Jiang, **Miran Kim**, Yongsoo Song, Yuhou Xia, Noman Mohammed, Md Nazmus Sadat, Shuang Wang
