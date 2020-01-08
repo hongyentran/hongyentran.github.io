@@ -13,7 +13,7 @@ author_profile: true
       
 ## 2019
       
-  * Efficient Multi-Key Homomorphic Encryption with Packed Ciphertexts with Application to Oblivious Neural Network Inference [[pdf]](https://k-miran.github.io/files/2019_Packed_MKHE.pdf)
+  * Efficient Multi-Key Homomorphic Encryption with Packed Ciphertexts with Application to Oblivious Neural Network Inference [[pdf]](http://eprint.iacr.org/2019/524)
       * Hao Chen, Wei Dai, **Miran Kim**, Yongsoo Song
       * _CCS (ACM Conference on Computer and Communications Security)_, 2019.
       
