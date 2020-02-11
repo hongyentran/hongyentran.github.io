@@ -20,6 +20,5 @@ My research focuses on the design of novel strategies to enable secure and priva
 
   * Areas of Expertise
       * Cryptography
-      * Computational number theory
       * Genome data privacy
-      * Machine learning
+      * (Privacy-preserving) Machine learning
