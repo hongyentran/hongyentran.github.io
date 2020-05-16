@@ -6,10 +6,17 @@ author_profile: true
 ---
 
 ## 2020
+  * Semi-parallel Logistic Regression for GWAS on Encrypted Data [[pdf]](https://eprint.iacr.org/2019/294)
+      * **Miran Kim**, Yongsoo Song, Baiyu Li, Daniele Micciancio
+      * To appear in _BMC Medical Genomics_, 2020. 
       
   * Efficient Homomorphic Conversion Between (Ring) LWE Ciphertexts [[pdf]](http://eprint.iacr.org/2020/015)
       * Hao Chen, Wei Dai, **Miran Kim**, Yongsoo Song
       * Cryptology ePrint Archive, Report 2020/015, 2020. 
+      
+  * Maliciously Secure Matrix Multiplication with Applications to Private Deep Learning [[pdf]](http://eprint.iacr.org/2020/451)
+      * Hao Chen, **Miran Kim**, Ilya Razenshteyn, Dragos Rotaru, Yongsoo Song, Sameer WaghHao
+      * Cryptology ePrint Archive, Report 2020/451, 2020.  
       
 ## 2019
       
@@ -20,10 +27,6 @@ author_profile: true
   * Secure and Differentially Private Logistic Regression for Horizontally Distributed Data
       * **Miran Kim**, Junghye Lee, Lucila Ohno-Machado, Xiaoqian Jiang
       * _IEEE Transactions on Information Forensics and Security 15(1):695-710_, 2019. 
-      
-  * Semi-parallel Logistic Regression for GWAS on Encrypted Data [[pdf]](https://eprint.iacr.org/2019/294)
-      * **Miran Kim**, Yongsoo Song, Baiyu Li, Daniele Micciancio
-      * To appear in _BMC Medical Genomics_, 2019. 
      
   * Homomorphic encryption for protecting genome privacy [[pdf]](https://k-miran.github.io/files/2019_IEEE_BHI.pdf)
       * **Miran Kim**
