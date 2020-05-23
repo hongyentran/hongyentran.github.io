@@ -4,7 +4,7 @@ title: ""
 permalink: /grant/
 author_profile: true
 ---
- * Co-PI in an NIH grant: _Connect All of Us: A digital nexuf for participatory health research_ (6/1/2020-5/31/2025)
+ * Co-PI in an NIH grant: _Connect All of Us: A digital nexus for participatory health research_ (6/1/2020-5/31/2025)
  
  * Co-PI in an NIH R41 grant (R41HG010978): _Secure outsourced computation of genomic data_ (9/9/2019-present)
  
