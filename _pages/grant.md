@@ -4,8 +4,9 @@ title: ""
 permalink: /grant/
 author_profile: true
 ---
-
- * Co-PI in an NIH R41 grant (R41HG010978): Secure outsourced computation of genomic data (9/9/2019-8/31/2020)
+ * Co-PI in an NIH grant: Connect All of Us: A digital nexuf for participatory health research (6/1/2020-5/31/2025)
+ 
+ * Co-PI in an NIH R41 grant (R41HG010978): Secure outsourced computation of genomic data (9/9/2019-present)
  
  * Gift from Microsoft Research on collaboration
  
