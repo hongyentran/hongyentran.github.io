@@ -15,7 +15,7 @@ author_profile: true
       * Cryptology ePrint Archive, Report 2020/015, 2020. 
       
   * Maliciously Secure Matrix Multiplication with Applications to Private Deep Learning [[pdf]](http://eprint.iacr.org/2020/451)
-      * Hao Chen, **Miran Kim**, Ilya Razenshteyn, Dragos Rotaru, Yongsoo Song, Sameer WaghHao
+      * Hao Chen, **Miran Kim**, Ilya Razenshteyn, Dragos Rotaru, Yongsoo Song, Sameer Wagh
       * Cryptology ePrint Archive, Report 2020/451, 2020.  
       
 ## 2019
@@ -24,7 +24,7 @@ author_profile: true
       * Hao Chen, Wei Dai, **Miran Kim**, Yongsoo Song
       * _CCS (ACM Conference on Computer and Communications Security)_, 2019.
       
-  * Secure and Differentially Private Logistic Regression for Horizontally Distributed Data
+  * Secure and Differentially Private Logistic Regression for Horizontally Distributed Data [[pdf]](https://ieeexplore.ieee.org/abstract/document/8747377)
       * **Miran Kim**, Junghye Lee, Lucila Ohno-Machado, Xiaoqian Jiang
       * _IEEE Transactions on Information Forensics and Security 15(1):695-710_, 2019. 
      
