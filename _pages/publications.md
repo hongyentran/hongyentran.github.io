@@ -26,7 +26,7 @@ author_profile: true
       
   * Efficient Multi-Key Homomorphic Encryption with Packed Ciphertexts with Application to Oblivious Neural Network Inference [[pdf]](http://eprint.iacr.org/2019/524)
       * Hao Chen, Wei Dai, **Miran Kim**, Yongsoo Song
-      * _CCS (ACM Conference on Computer and Communications Security)_, 2019.
+      * _ACM Conference on Computer and Communications Security (CCS)_, 2019.
       
   * Secure and Differentially Private Logistic Regression for Horizontally Distributed Data [[pdf]](https://ieeexplore.ieee.org/abstract/document/8747377)
       * **Miran Kim**, Junghye Lee, Lucila Ohno-Machado, Xiaoqian Jiang
@@ -43,11 +43,11 @@ author_profile: true
 ## 2018
   * Secure Outsourced Matrix Computation and Application to Neural Networks [[pdf]](https://k-miran.github.io/files/2018_HEMat_CCS.pdf) [[code]](https://github.com/K-miran/HEMat)
       * Xiaoqian Jiang, **Miran Kim**, Kristin Lauter, Yongsoo Song
-      * _CCS (ACM Conference on Computer and Communications Security)_, 2018.
+      * _ACM Conference on Computer and Communications Security (CCS)_, 2018.
    
   * A full RNS Variant of approximate homomorphic encryption [[pdf]](https://k-miran.github.io/files/2018_RNS_SAC.pdf) [[code]](https://github.com/HanKyoohyung/FullRNS-HEAAN)
       * Jung Hee Cheon, Kyoohyung Han, Andrey Kim, **Miran Kim**, Yongsoo Song
-      * _SAC (International Conference on Selected Areas in Cryptography)_, 2018.
+      * _International Conference on Selected Areas in Cryptography (SAC)_, 2018.
 
   * Bootstrapping for approximate homomorphic encryption [[pdf]](https://k-miran.github.io/files/2018_BTS_Euro.pdf) [[code]](https://github.com/kimandrik/HEAANBOOT)
       * Jung Hee Cheon, Kyoohyung Han, Andrey Kim, **Miran Kim**, Yongsoo Song
@@ -95,11 +95,11 @@ author_profile: true
       
    * Search-and-compute on encrypted data [[pdf]](https://k-miran.github.io/files/2015_PSnC_WAHC.pdf)
       * Jung Hee Cheon, **Miran Kim**, Myungsun Kim
-      * _FC (Financial Cryptography and Data Security Workshop)_, 2015.
+      * _Financial Cryptography and Data Security Workshop (FC)_, 2015.
        
    * Homomorphic computation of edit distance [[pdf]](https://k-miran.github.io/files/2015_EditDist_WAHC.pdf)
       * Jung Hee Cheon, **Miran Kim**, Kristin Lauter
-      * _FC (Financial Cryptography and Data Security Workshop)_, 2015.    
+      * _Financial Cryptography and Data Security Workshop (FC)_, 2015.    
       
 ## Manuscripts
    *  A standard API FOR RLWE-based homomorphic encryption [[url]](http://homomorphicencryption.org)
@@ -107,19 +107,20 @@ author_profile: true
       * 2017.
 
 ## Patent
-  *  Protection of Cyber-Physical Systems with Homomorphic Encryption
-      * Yongsoo Song, Jung Hee Cheon, Hyungboo Shim, **Miran Kim**, Junsoo Kim, Chanhwa Lee
-      * KR Patent. 1020180092199, 2018.
+  * Apparatus for approximately processing encrypted messages and methods thereof
+      * US Patent App. US 20200036511A1, Jan. 30, 2020.
+  *  Apparatus for processing approximate encrypted messages and methods thereof
+      * KR-102040120-B1, Nov. 5, 2019.
      
-  *  Method for Managing Data and Apparatuses therefor [[url]](https://patents.google.com/patent/US20170004324A1/en)
-      * Jae woo Seo, Jung Hee Cheon, **Miran Kim**, Myungsun Kim
-      * US Patent App. US20170004324A1, 2017.
+  *  Method and system for communicating homomorphically encrypted data
+      * US Patent App. US10198592B2, Feb. 5, 2019. 
       
-  *  Method for Calculating Edit Distance Between DNA Genomic Sequence through Homomorphic Encryption
-      * Jung Hee Cheon, **Miran Kim**
-      * KR Patent. 1020160017708, 2016.
+  *  Method for processing dynamic data by homomorphic encryption
+      * KR-101919940-B1, Nov. 19, 2018.   
+      
+  *  Method for calculating edit distance between DNA genomic sequence through homomorphic encryption
+      * KR-101817087-B1, Jan. 11, 2018.
   
-  *  A Method for Managing Data and Apparatuses therefor
-      * Jae woo Seo, Jung Hee Cheon, **Miran Kim**, Myungsun Kim
-      * KR Patent. 1020150094823, 2015.
+  *  A method for managing data and apparatuses therefor
+      * KR-20170004456-A, Jan. 11, 2017.
       
