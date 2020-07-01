@@ -1,10 +1,10 @@
 # main links links
 main:
-  - title: "Publications"
+  - title: "Publication"
     url: /publications/
 
   - title: "Patent"
-    url: /Patent/    
+    url: /patent/    
 
   - title: "Honors"
     url: /honors/    
