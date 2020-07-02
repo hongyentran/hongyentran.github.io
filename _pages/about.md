@@ -15,9 +15,10 @@ I am an assistant professor of [School of Biomedical Informatics (SBMI)](https:/
 Email : Miran.Kim at uth dot tmc dot edu or miran5004 at gmail dot com <br />
 
 ## Research Interest
-My research focuses on the design of novel strategies to enable secure and privacy-preserving data analysis. I have an extensive experience in implementation of efficient protocols for data query processing, genomic computation, and cyber-physical systems. In 2015, 2017, and 2018, I received the first prizes on secure outsourcing tasks of genome data privacy challenges at iDASH Genome Privacy & Security competition (supported by National Institutes of Health). Since 2019, I have served as the organizer of the iDASH Competition.
+I am working in the field of secure computation, which aims to develop advanced cryptographic primitives to protect sensitive data of individuals while providing the same service to the customers. I have an extensive experience in implementation of secure and privacy-preserving protocols for cyber-physical systems, data query processing, and genomic computation. In particular, I received multiple first prizes on secure outsourcing genome analysis of iDASH Genome Privacy and Security competition (supported by National Institutes of Health), which report state-of-the-art performance of cryptographic schemes in real-world biomedical problems. As a noteworthy service to the scientific community, I serve as the organizer of the iDASH privacy competition since 2019.
 
   * Areas of Expertise
-      * Cryptography
-      * Genome data privacy
-      * Privacy-preserving Machine learning
+      * Secure computation
+      * Privacy-preserving machine learning
+      * Secure outsourced genomic analysis
+
