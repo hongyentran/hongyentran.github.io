@@ -15,10 +15,10 @@ I am an assistant professor of [School of Biomedical Informatics (SBMI)](https:/
 Email : Miran.Kim at uth dot tmc dot edu or miran5004 at gmail dot com <br />
 
 ## Research Interest
-I am working in the field of secure computation, which aims to develop advanced cryptographic primitives to protect sensitive data of individuals while providing the same service to the customers. I have an extensive experience in implementation of secure and privacy-preserving protocols for cyber-physical systems, data query processing, and genomic computation. In particular, I received multiple first prizes on secure outsourcing genome analysis of iDASH Genome Privacy and Security competition (supported by National Institutes of Health), which report state-of-the-art performance of cryptographic schemes in real-world biomedical problems. As a noteworthy service to the scientific community, I serve as the organizer of the iDASH privacy competition since 2019.
+I am working in the field of secure computation, which aims to develop advanced cryptographic primitives to protect sensitive data of individuals while providing the same service to the customers. I have an extensive experience in implementation of secure and privacy-preserving protocols for cyber-physical systems, data query processing, and genomic computation. In particular, I received multiple first prizes on secure outsourcing genome analysis of [iDASH Genome Privacy and Security Competition](http://www.humangenomeprivacy.org/) (supported by National Institutes of Health), which report state-of-the-art performance of cryptographic schemes in real-world biomedical problems. As a noteworthy service to the scientific community, I serve as the organizer of the iDASH privacy competition since 2019.
 
-  * Areas of Expertise
-      * Secure computation
-      * Privacy-preserving machine learning
-      * Secure outsourced genomic analysis
+ * Areas of Expertise
+     * Secure computation
+     * Privacy-preserving machine learning
+     * Secure outsourced genomic analysis
 
