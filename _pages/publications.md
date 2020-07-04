@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-## 2020
+
   * Secure and Differentially Private Bayesian Learning on Distributed Data [[pdf]](https://arxiv.org/abs/2005.11007)
       * Yeongjae Gil, Xiaoqian Jiang, **Miran Kim**, Junghye Lee
       * arXiv:2005.11007, 2020. 
@@ -22,7 +22,6 @@ author_profile: true
       * **Miran Kim**, Yongsoo Song, Baiyu Li, Daniele Micciancio
       * To appear in _BMC Medical Genomics_, 2020. 
       
-## 2019
       
   * Efficient Multi-Key Homomorphic Encryption with Packed Ciphertexts with Application to Oblivious Neural Network Inference [[pdf]](http://eprint.iacr.org/2019/524)
       * Hao Chen, Wei Dai, **Miran Kim**, Yongsoo Song
@@ -40,7 +39,6 @@ author_profile: true
       * Yichen Jiang, Jenny Hamer, Chenghong Wang, Xiaoqian Jiang, **Miran Kim**, Yongsoo Song, Yuhou Xia, Noman Mohammed, Md Nazmus Sadat, Shuang Wang
       * _IEEE/ACM Transactions on Computational Biology and Bioinformatics 16(1):113--123_, 2019.
   
-## 2018
   * Secure Outsourced Matrix Computation and Application to Neural Networks [[pdf]](https://k-miran.github.io/files/2018_HEMat_CCS.pdf) [[code]](https://github.com/K-miran/HEMat)
       * Xiaoqian Jiang, **Miran Kim**, Kristin Lauter, Yongsoo Song
       * _ACM Conference on Computer and Communications Security (CCS)_, 2018.
@@ -61,7 +59,6 @@ author_profile: true
       * **Miran Kim**, Yongsoo Song, Shuang Wang, Yuhou Xia, Xiaoqian Jiang
       * _JMIR Medical Informatics 6(2)_, 2018.
 
-## 2017
   * Homomorphic encryption for arithmetic of approximate numbers [[pdf]](https://k-miran.github.io/files/2017_HEAAN_Asia.pdf) [[code]](https://github.com/snucrypto/HEAAN)
       * Jung Hee Cheon, Andrey Kim, **Miran Kim**, Yongsoo Song
       * _ASIACRYPT_, 2017.
@@ -70,7 +67,6 @@ author_profile: true
       * **Miran Kim**, Yongsoo Song, Jung Hee Cheon
       * _BMC Medical Genomics 10(42)_, 2017.
       
-## 2016
   * Encrypting controller using fully homomorphic encryption for security of cyber-physical systems [[pdf]](https://k-miran.github.io/files/2016_necsys.pdf)
       * Junsoo Kim, Chanhwa Lee, Hyungboo Shim, Jung Hee Cheon, Andrey Kim, **Miran Kim**, Yongsoo Song
       * _NECSYS (IFAC Workshop on Distributed Estimation and Control in Networked Systems)_, 2016.
@@ -82,8 +78,7 @@ author_profile: true
   * HEALER: homomorphic computation of ExAct Logistic rEgRession for secure rare disease variants analysis in GWAS [[pdf]](https://k-miran.github.io/files/2015_HEALER_Bioinformatics.pdf)
       * Shuang Wang, Yuchen Zhang, Wenrui Dai, Kristin Lauter, **Miran Kim**, Yuzhe Tang, Hongkai Xiong, Xiaoqian Jiang
       * _Bioinformatics 32(2):211--218_, 2016.
-      
-## 2015   
+        
 
   * Private genome analysis through homomorphic encryption [[pdf]](https://k-miran.github.io/files/2015_BMC_idash15.pdf)
       * **Miran Kim**, Kristin Lauter
