@@ -62,7 +62,12 @@ author_profile: true
   * Homomorphic encryption for arithmetic of approximate numbers [[pdf]](https://k-miran.github.io/files/2017_HEAAN_Asia.pdf) [[code]](https://github.com/snucrypto/HEAAN)
       * Jung Hee Cheon, Andrey Kim, **Miran Kim**, Yongsoo Song
       * _ASIACRYPT_, 2017.
-  
+      
+      
+  *  A standard API FOR RLWE-based homomorphic encryption [[url]](https://homomorphicencryption.org/standard/)
+      * Michael Brenner, Wei Dai, Shai Halevi, Kyoohyung Han, Amir Jalali, **Miran Kim**, Kim Laine, Alex Malozemoff, Pascal Paillier, Yuriy Polyakov, Kurt Rohloff, Erkay Savas, Berk Sunar
+      * Draft Homomorphic Encryption Standard, available at HomomorphicEncryption.org. 2017.
+
   * Secure searching of biomarkers using hybrid homomorphic encryption scheme [[pdf]](https://k-miran.github.io/files/2017_BMC_idash16.pdf) [[code]](https://github.com/K-miran/HybridHE)
       * **Miran Kim**, Yongsoo Song, Jung Hee Cheon
       * _BMC Medical Genomics 10(42)_, 2017.
@@ -96,7 +101,5 @@ author_profile: true
       * Jung Hee Cheon, **Miran Kim**, Kristin Lauter
       * _Financial Cryptography and Data Security Workshop (FC)_, 2015.    
       
-## Manuscripts
-   *  A standard API FOR RLWE-based homomorphic encryption [[url]](http://homomorphicencryption.org)
-      * Michael Brenner, Wei Dai, Shai Halevi, Kyoohyung Han, Amir Jalali, **Miran Kim**, Kim Laine, Alex Malozemoff, Pascal Paillier, Yuriy Polyakov, Kurt Rohloff, Erkay Savas, Berk Sunar
-      * 2017.
+ 
+   
