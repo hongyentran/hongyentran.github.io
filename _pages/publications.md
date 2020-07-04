@@ -4,19 +4,21 @@ title: ""
 permalink: /publications/
 author_profile: true
 ---
-
+  * Ultra-Fast Homomorphic Encryption Models enable Secure Outsourcing of Genotype Imputation [[pdf]](https://www.biorxiv.org/content/10.1101/2020.07.02.183459v1)
+      * **Miran Kim**, Arif Harmanci, Jean-Philippe Bossuat, Sergiu Carpov, Jung Hee Cheon, Ilaria Chillotti, Wonhee Cho, David Froelicher, Nicolas Gama, Mariya Georgieva, Seungwan Hong, Jean-Pierre Hubaux, Duhyeong Kim, Kristin Lauter, Yiping Ma, Lucila Ohno-Machado, Heidi Sofia, Yongha Son, Yongsoo Song, Juan Troncoso-Pastoriza,  Xiaoqian Jiang
+      * bioRxiv: 2020.07.02.183459. 2020.
 
   * Secure and Differentially Private Bayesian Learning on Distributed Data [[pdf]](https://arxiv.org/abs/2005.11007)
       * Yeongjae Gil, Xiaoqian Jiang, **Miran Kim**, Junghye Lee
-      * arXiv:2005.11007, 2020. 
+      * arXiv:2005.11007. 2020. 
       
   * Maliciously Secure Matrix Multiplication with Applications to Private Deep Learning [[pdf]](http://eprint.iacr.org/2020/451)
       * Hao Chen, **Miran Kim**, Ilya Razenshteyn, Dragos Rotaru, Yongsoo Song, Sameer Wagh
-      * Cryptology ePrint Archive, Report 2020/451, 2020. 
+      * Cryptology ePrint Archive, Report 2020/451. 2020. 
       
   * Efficient Homomorphic Conversion Between (Ring) LWE Ciphertexts [[pdf]](http://eprint.iacr.org/2020/015)
       * Hao Chen, Wei Dai, **Miran Kim**, Yongsoo Song
-      * Cryptology ePrint Archive, Report 2020/015, 2020. 
+      * Cryptology ePrint Archive, Report 2020/015. 2020. 
       
   * Semi-parallel Logistic Regression for GWAS on Encrypted Data [[pdf]](https://eprint.iacr.org/2019/294)
       * **Miran Kim**, Yongsoo Song, Baiyu Li, Daniele Micciancio
