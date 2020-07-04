@@ -8,7 +8,7 @@ author_profile: true
 ## 2020
   * Secure and Differentially Private Bayesian Learning on Distributed Data [[pdf]](https://arxiv.org/abs/2005.11007)
       * Yeongjae Gil, Xiaoqian Jiang, **Miran Kim**, Junghye Lee
-      * CoRR, abs/2005.11007, 2020. 
+      * arXiv:2005.11007, 2020. 
       
   * Maliciously Secure Matrix Multiplication with Applications to Private Deep Learning [[pdf]](http://eprint.iacr.org/2020/451)
       * Hao Chen, **Miran Kim**, Ilya Razenshteyn, Dragos Rotaru, Yongsoo Song, Sameer Wagh
