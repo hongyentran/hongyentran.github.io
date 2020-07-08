@@ -69,7 +69,6 @@ author_profile: true
       * Jung Hee Cheon, Andrey Kim, **Miran Kim**, Yongsoo Song
       * _ASIACRYPT_, 2017.
       
-      
   *  A standard API FOR RLWE-based homomorphic encryption [[url]](https://homomorphicencryption.org/standard/)
       * Michael Brenner, Wei Dai, Shai Halevi, Kyoohyung Han, Amir Jalali, **Miran Kim**, Kim Laine, Alex Malozemoff, Pascal Paillier, Yuriy Polyakov, Kurt Rohloff, Erkay Savas, Berk Sunar
       * Draft Homomorphic Encryption Standard, available at HomomorphicEncryption.org. 2017.
@@ -80,7 +79,7 @@ author_profile: true
       
   * Encrypting controller using fully homomorphic encryption for security of cyber-physical systems [[pdf]](https://k-miran.github.io/files/2016_necsys.pdf)
       * Junsoo Kim, Chanhwa Lee, Hyungboo Shim, Jung Hee Cheon, Andrey Kim, **Miran Kim**, Yongsoo Song
-      * _NECSYS (IFAC Workshop on Distributed Estimation and Control in Networked Systems)_, 2016.
+      * _IFAC Workshop on Distributed Estimation and Control in Networked Systems (NECSYS)_, 2016.
       
   * Optimized search-and-compute circuits and their application to query evaluation on encrypted data [[pdf]](https://k-miran.github.io/files/2016_PSnC_IFTS.pdf)
       * Jung Hee Cheon, **Miran Kim**, Myungsun Kim
@@ -97,7 +96,7 @@ author_profile: true
       
    * SECRET: Secure Edit-distance Computation over homomoRphic Encrypted daTa [[pdf]](https://k-miran.github.io/files/2015_EditDist_BCB.pdf)
       * Yuchen Zhang, Wenrui Dai, Shuang Wang, **Miran Kim**, Kristin Lauter, Jun Sakuma, Hongkai Xiong, Xiaoqian Jiang
-      * _TBC (Annual Translational Bioinformatics Conference)_, 2015.
+      * _Annual Translational Bioinformatics Conference (TB)_, 2015.
       
    * Search-and-compute on encrypted data [[pdf]](https://k-miran.github.io/files/2015_PSnC_WAHC.pdf)
       * Jung Hee Cheon, **Miran Kim**, Myungsun Kim
