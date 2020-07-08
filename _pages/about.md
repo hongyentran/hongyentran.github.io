@@ -10,7 +10,7 @@ redirect_from:
 
 
 ## About me
-I am an assistant professor of [School of Biomedical Informatics (SBMI)](https://sbmi.uth.edu/faculty-and-staff/miran-kim.htm) at the University of Texas, Health Science Center at Houston, where I have worked since May of 2018. From 2017-2018, I was a post-doctoral researcher at Health Department of Biomedical Informatics of University of California San Diego. I received my M.S. and Ph.D. degrees in Mathematical Sciences from Seoul National University (SNU), Korea, in 2012 and 2017, respectively. During my graduate program, I worked as an intern at Microsoft Research for 4 months (2015.01-2015.4). I received the B.S. degree in Mathematical Education from SNU in 2010. 
+I am an assistant professor of [School of Biomedical Informatics (SBMI)](https://sbmi.uth.edu/faculty-and-staff/miran-kim.htm) at the University of Texas, Health Science Center at Houston, where I have worked since May of 2018. I received the B.S. and M.S. degrees in Mathematical Education and Mathematics from Seoul National University (SNU) in 2010 and 2012, respectively. I received my Ph.D. degree in Cryptography from SNU in 2017. During my graduate program, I worked as a research intern at Microsoft Research for 4 months (2015.01-2015.4). From 2017-2018, I was a post-doctoral researcher at Health Department of Biomedical Informatics of University of California San Diego. 
 
 Email : Miran.Kim at uth dot tmc dot edu or miran5004 at gmail dot com <br />
 
