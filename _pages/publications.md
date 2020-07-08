@@ -8,7 +8,7 @@ author_profile: true
       * JL Raisaro, Francesco Marino, Juan Troncoso-Pastoriza, Raphaelle Beau-Lejdstrom, Riccardo Bellazz, Elmer V. Bernstam, Mauro Bucalo, Yong Chen, Assaf Gottlieb, Arif Harmanci, **Miran Kim**, Yejin Kim, Jeffrey Klann, Catherine Klersy, Bradley A. Malin, Marie Méan, Fabian Prasser, Luigia Scudeller, Ali Torkamani, Julien Vaucher, Mamta Puppala, Stephen T.C. Wong, Milana Frenkel-Morgenstern, Hua Xu, Baba Maiyaki Musa, Abdulrazaq G. Habib, Adam Wilcox, Hamisu M. Salihu, Heidi Sofia, Xiaoqian Jiang, Jean-Pierre Hubaux
       * To appear in _Journal of the American Medical Informatics Association (JAMIA)_, 2020.
 
-      * Ultra-Fast Homomorphic Encryption Models enable Secure Outsourcing of Genotype Imputation [[pdf]](https://www.biorxiv.org/content/10.1101/2020.07.02.183459v1)
+  * Ultra-Fast Homomorphic Encryption Models enable Secure Outsourcing of Genotype Imputation [[pdf]](https://www.biorxiv.org/content/10.1101/2020.07.02.183459v1)
       * **Miran Kim**, Arif Harmanci, Jean-Philippe Bossuat, Sergiu Carpov, Jung Hee Cheon, Ilaria Chillotti, Wonhee Cho, David Froelicher, Nicolas Gama, Mariya Georgieva, Seungwan Hong, Jean-Pierre Hubaux, Duhyeong Kim, Kristin Lauter, Yiping Ma, Lucila Ohno-Machado, Heidi Sofia, Yongha Son, Yongsoo Song, Juan Troncoso-Pastoriza,  Xiaoqian Jiang
       * bioRxiv: 2020.07.02.183459. 2020.
 
