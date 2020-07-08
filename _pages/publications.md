@@ -4,7 +4,11 @@ title: ""
 permalink: /publications/
 author_profile: true
 ---
-  * Ultra-Fast Homomorphic Encryption Models enable Secure Outsourcing of Genotype Imputation [[pdf]](https://www.biorxiv.org/content/10.1101/2020.07.02.183459v1)
+  * SCOR: A secure international informatics infrastructure to investigate COVID-19
+      * JL Raisaro, Francesco Marino, Juan Troncoso-Pastoriza, Raphaelle Beau-Lejdstrom, Riccardo Bellazz, Elmer V. Bernstam, Mauro Bucalo, Yong Chen, Assaf Gottlieb, Arif Harmanci, **Miran Kim**, Yejin Kim, Jeffrey Klann, Catherine Klersy, Bradley A. Malin, Marie Méan, Fabian Prasser, Luigia Scudeller, Ali Torkamani, Julien Vaucher, Mamta Puppala, Stephen T.C. Wong, Milana Frenkel-Morgenstern, Hua Xu, Baba Maiyaki Musa, Abdulrazaq G. Habib, Adam Wilcox, Hamisu M. Salihu, Heidi Sofia, Xiaoqian Jiang, Jean-Pierre Hubaux
+      * To appear in _Journal of the American Medical Informatics Association (JAMIA)_, 2020.
+
+      * Ultra-Fast Homomorphic Encryption Models enable Secure Outsourcing of Genotype Imputation [[pdf]](https://www.biorxiv.org/content/10.1101/2020.07.02.183459v1)
       * **Miran Kim**, Arif Harmanci, Jean-Philippe Bossuat, Sergiu Carpov, Jung Hee Cheon, Ilaria Chillotti, Wonhee Cho, David Froelicher, Nicolas Gama, Mariya Georgieva, Seungwan Hong, Jean-Pierre Hubaux, Duhyeong Kim, Kristin Lauter, Yiping Ma, Lucila Ohno-Machado, Heidi Sofia, Yongha Son, Yongsoo Song, Juan Troncoso-Pastoriza,  Xiaoqian Jiang
       * bioRxiv: 2020.07.02.183459. 2020.
 
@@ -31,7 +35,7 @@ author_profile: true
       
   * Secure and Differentially Private Logistic Regression for Horizontally Distributed Data [[pdf]](https://ieeexplore.ieee.org/abstract/document/8747377)
       * **Miran Kim**, Junghye Lee, Lucila Ohno-Machado, Xiaoqian Jiang
-      * _IEEE Transactions on Information Forensics and Security 15(1):695-710_, 2019. 
+      * _IEEE Transactions on Information Forensics and Security (TIFS); 15(1):695-710_, 2019. 
      
   * Homomorphic encryption for protecting genome privacy [[pdf]](https://k-miran.github.io/files/2019_IEEE_BHI.pdf)
       * **Miran Kim**
@@ -80,7 +84,7 @@ author_profile: true
       
   * Optimized search-and-compute circuits and their application to query evaluation on encrypted data [[pdf]](https://k-miran.github.io/files/2016_PSnC_IFTS.pdf)
       * Jung Hee Cheon, **Miran Kim**, Myungsun Kim
-      * _IEEE Transactions on Information Forensics and Security 11(1):188--199_, 2016.
+      * _IEEE Transactions on Information Forensics and Security (TIFS); 11(1):188--199_, 2016.
   
   * HEALER: homomorphic computation of ExAct Logistic rEgRession for secure rare disease variants analysis in GWAS [[pdf]](https://k-miran.github.io/files/2015_HEALER_Bioinformatics.pdf)
       * Shuang Wang, Yuchen Zhang, Wenrui Dai, Kristin Lauter, **Miran Kim**, Yuzhe Tang, Hongkai Xiong, Xiaoqian Jiang
