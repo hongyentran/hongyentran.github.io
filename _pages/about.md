@@ -12,7 +12,7 @@ redirect_from:
 ## About me
 I am an assistant professor of [School of Biomedical Informatics (SBMI)](https://sbmi.uth.edu/faculty-and-staff/miran-kim.htm) at the University of Texas, Health Science Center at Houston, where I have worked since May of 2018. I received the B.S. and M.S. degrees in Mathematical Education and Mathematics from Seoul National University (SNU) in 2010 and 2012, respectively. I received my Ph.D. degree in Cryptography from SNU in 2017. During my graduate program, I worked as a research intern at Microsoft Research for 4 months (2015.01-2015.4). From 2017-2018, I was a post-doctoral researcher at Health Department of Biomedical Informatics of University of California San Diego. 
 
-Email : Miran.Kim at uth dot tmc dot edu or miran5004 at gmail dot com <br />
+Email : Miran.Kim at uth dot tmc dot edu or mirankim618 at gmail dot com <br />
 
 ## Research Interest
 My research mainly focuses on secure computation, which aims to develop advanced cryptographic primitives to protect sensitive data of individuals. I have been actively working on the development of privacy-preserving protocols in a wide range of applications such as cyber-physical systems, data query processing, genomic computation, and machine learning. In particular, I received multiple first prizes on secure outsourcing genome analysis of [iDASH Genome Privacy and Security Competition](http://www.humangenomeprivacy.org/) (supported by National Institutes of Health), which report state-of-the-art performance of cryptographic schemes in real-world biomedical problems. As a noteworthy service to the scientific community, I serve as the organizer of the iDASH privacy competition since 2019.
