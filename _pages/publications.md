@@ -20,7 +20,7 @@ author_profile: true
       * Hao Chen, Wei Dai, **Miran Kim**, Yongsoo Song
       * Cryptology ePrint Archive, Report 2020/015. 2020. 
       
-  * Semi-parallel Logistic Regression for GWAS on Encrypted Data [[pdf]](https://bmcmedgenomics.biomedcentral.com/articles/10.1186/s12920-020-0724-z)
+  * Semi-parallel Logistic Regression for GWAS on Encrypted Data [[pdf]](https://k-miran.github.io/files/2020_BMC_idash18.pdf)
       * **Miran Kim**, Yongsoo Song, Baiyu Li, Daniele Micciancio
       * _BMC Medical Genomics; 13:99_, 2020. 
       
