@@ -8,7 +8,7 @@ author_profile: true
  
  * Co-PI in an NIH R41 grant (R41HG010978): _Secure outsourced computation of genomic data_ (9/9/2019-present)
  
- * Gift from Microsoft Research on collaboration
+ * Microsoft Research Award - 2019  Dr. Kim's Research  Collaboration
  
  * Co-I in Cancer Prevention Research Institute of Texas (CPRIT) Rising Stars Award (CPRIT RR180012): _Cancer Phenotyping for personalized combinatorial drug therapy_ (5/1/2018-present)
  
