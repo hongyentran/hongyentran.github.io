@@ -18,7 +18,7 @@ author_profile: true
   
   * Maliciously Secure Matrix Multiplication with Applications to Private Deep Learning [[pdf]](http://eprint.iacr.org/2020/451)
       * Hao Chen, **Miran Kim**, Ilya Razenshteyn, Dragos Rotaru, Yongsoo Song, Sameer Wagh
-      * To appear in _Asiacrypt_.2020.
+      * To appear in _Asiacrypt_, 2020.
 
   * Semi-parallel Logistic Regression for GWAS on Encrypted Data [[pdf]](https://k-miran.github.io/files/2020_BMC_idash18.pdf)
       * **Miran Kim**, Yongsoo Song, Baiyu Li, Daniele Micciancio
