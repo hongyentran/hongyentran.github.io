@@ -11,15 +11,15 @@ author_profile: true
   * Secure and Differentially Private Bayesian Learning on Distributed Data [[pdf]](https://arxiv.org/abs/2005.11007)
       * Yeongjae Gil, Xiaoqian Jiang, **Miran Kim**, Junghye Lee
       * arXiv:2005.11007. 2020. 
-      
-  * Maliciously Secure Matrix Multiplication with Applications to Private Deep Learning [[pdf]](http://eprint.iacr.org/2020/451)
-      * Hao Chen, **Miran Kim**, Ilya Razenshteyn, Dragos Rotaru, Yongsoo Song, Sameer Wagh
-      * Cryptology ePrint Archive, Report 2020/451. 2020. 
-      
+  
   * Efficient Homomorphic Conversion Between (Ring) LWE Ciphertexts [[pdf]](http://eprint.iacr.org/2020/015)
       * Hao Chen, Wei Dai, **Miran Kim**, Yongsoo Song
       * Cryptology ePrint Archive, Report 2020/015. 2020. 
-      
+  
+  * Maliciously Secure Matrix Multiplication with Applications to Private Deep Learning [[pdf]](http://eprint.iacr.org/2020/451)
+      * Hao Chen, **Miran Kim**, Ilya Razenshteyn, Dragos Rotaru, Yongsoo Song, Sameer Wagh
+      * To appear in _Asiacrypt_.2020.
+
   * Semi-parallel Logistic Regression for GWAS on Encrypted Data [[pdf]](https://k-miran.github.io/files/2020_BMC_idash18.pdf)
       * **Miran Kim**, Yongsoo Song, Baiyu Li, Daniele Micciancio
       * _BMC Medical Genomics_; 13(7):1-13, 2020. 
@@ -54,7 +54,7 @@ author_profile: true
 
   * Bootstrapping for approximate homomorphic encryption [[pdf]](https://k-miran.github.io/files/2018_BTS_Euro.pdf) [[code]](https://github.com/kimandrik/HEAANBOOT)
       * Jung Hee Cheon, Kyoohyung Han, Andrey Kim, **Miran Kim**, Yongsoo Song
-      * _EUROCRYPT_, 2018
+      * _Eurocrypt_, 2018
  
   * Logistic regression model training based on the approximate homomorphic encryption [[pdf]](https://k-miran.github.io/files/2018_BMC_idash17.pdf) [[code]](https://github.com/kimandrik/IDASH2017)
       * Andrey Kim, Yongsoo Song, **Miran Kim**, Kiwoo Lee, Jung Hee Cheon
@@ -66,7 +66,7 @@ author_profile: true
 
   * Homomorphic encryption for arithmetic of approximate numbers [[pdf]](https://k-miran.github.io/files/2017_HEAAN_Asia.pdf) [[code]](https://github.com/snucrypto/HEAAN)
       * Jung Hee Cheon, Andrey Kim, **Miran Kim**, Yongsoo Song
-      * _ASIACRYPT_, 2017.
+      * _Asiacrypt_, 2017.
       
   *  A standard API FOR RLWE-based homomorphic encryption [[url]](https://homomorphicencryption.org/standard/)
       * Michael Brenner, Wei Dai, Shai Halevi, Kyoohyung Han, Amir Jalali, **Miran Kim**, Kim Laine, Alex Malozemoff, Pascal Paillier, Yuriy Polyakov, Kurt Rohloff, Erkay Savas, Berk Sunar
@@ -88,7 +88,6 @@ author_profile: true
       * Shuang Wang, Yuchen Zhang, Wenrui Dai, Kristin Lauter, **Miran Kim**, Yuzhe Tang, Hongkai Xiong, Xiaoqian Jiang
       * _Bioinformatics_; 32(2):211--218, 2016.
         
-
   * Private genome analysis through homomorphic encryption [[pdf]](https://k-miran.github.io/files/2015_BMC_idash15.pdf)
       * **Miran Kim**, Kristin Lauter
       * _BMC medical informatics and decision making_; 15(Suppl 5):S3, 2015.
