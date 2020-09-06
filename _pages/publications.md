@@ -16,6 +16,10 @@ author_profile: true
       * Hao Chen, Wei Dai, **Miran Kim**, Yongsoo Song
       * Cryptology ePrint Archive, Report 2020/015. 2020. 
   
+  * A Secure System for Genomics Clinical Decision Support
+      * Seemeen Karimi, Xiaoqian Jiang, Robert Dolin, **Miran Kim**, Aziz Boxwala
+      * To appear in _Journal of Biomedical Informatics_, 2020.
+      
   * Maliciously Secure Matrix Multiplication with Applications to Private Deep Learning [[pdf]](http://eprint.iacr.org/2020/451)
       * Hao Chen, **Miran Kim**, Ilya Razenshteyn, Dragos Rotaru, Yongsoo Song, Sameer Wagh
       * To appear in _Asiacrypt_, 2020.
@@ -26,7 +30,7 @@ author_profile: true
       
   * SCOR: A secure international informatics infrastructure to investigate COVID-19 [[pdf]](https://academic.oup.com/jamia/article/doi/10.1093/jamia/ocaa172/5869802)
       * J L Raisaro, Francesco Marino, Juan Troncoso-Pastoriza, Raphaelle Beau-Lejdstrom, Riccardo Bellazzi, Robert Murphy, Elmer V Bernstam, Henry Wang, Mauro Bucalo, Yong Chen, Assaf Gottlieb, Arif Harmanci, **Miran Kim**, Yejin Kim, Jeffrey Klann, Catherine Klersy, Bradley A Malin, Marie Méan, Fabian Prasser, Luigia Scudeller, Ali Torkamani, Julien Vaucher, Mamta Puppala, Stephen T C Wong, Milana Frenkel-Morgenstern, Hua Xu, Baba Maiyaki Musa, Abdulrazaq G Habib, Trevor Cohen, Adam Wilcox, Hamisu M Salihu, Heidi Sofia, Xiaoqian Jiang, J P Hubaux
-      * _Journal of the American Medical Informatics Association (JAMIA)_, ocaa172.
+      * _Journal of the American Medical Informatics Association (JAMIA)_; ocaa172, 2020.
 
   * Efficient Multi-Key Homomorphic Encryption with Packed Ciphertexts with Application to Oblivious Neural Network Inference [[pdf]](http://eprint.iacr.org/2019/524)
       * Hao Chen, Wei Dai, **Miran Kim**, Yongsoo Song
