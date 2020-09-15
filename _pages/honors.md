@@ -29,12 +29,16 @@ author_profile: true
 
   
   
-## Media Mentions
-  * Awards for Young Korean Female Mathematics [[Media]](https://search.naver.com/search.naver?where=news&query=김미란%20수학&sm=tab_opt&sort=0&photo=0&field=0&reporter_article=&pd=0&ds=&de=&docid=4420000082061&nso=so%3Ar%2Cp%3Aall%2Ca%3Aall&mynews=0&mson=0&refresh_start=0&related=1)
+## Media Mentions 
+  * KWMS-NC Cultural Foundation Young Korean Female Mathematicians Awards @ Donga Science. August 2018. [[Media]](https://dl.dongascience.com/magazine/view/M201808N008)
   
-  * The 10th Crypto Contest [[Media]](http://www.etnews.com/20161123000272)
+  * Awards for Young Korean Female Mathematics. July 2018. [[Media]](https://search.naver.com/search.naver?where=news&query=김미란%20수학&sm=tab_opt&sort=0&photo=0&field=0&reporter_article=&pd=0&ds=&de=&docid=4420000082061&nso=so%3Ar%2Cp%3Aall%2Ca%3Aall&mynews=0&mson=0&refresh_start=0&related=1)
   
-  * Cryptographer's Challenge: Keeping Genetic Secrets While Advancing Genetic Research [[Media]](https://www.microsoft.com/en-us/research/blog/cryptographers-challenge-keeping-genetic-secrets-while-advancing-genetic-research/)
+  * Research about genomic big data while keeping the privacy @ Donga news. May 2018. [Media](http://dongascience.donga.com/news.php?idx=25206)
   
-  * Hot Global Mathematicians of Cryptography [[Media]](http://news.donga.com/3/all/20150313/70100744/1)
- 
+  * The 10th Crypto Contest. Nov 2016. [[Media]](http://www.etnews.com/20161123000272)
+  
+  * Cryptographer’s Challenge: Keeping Genetic Secrets While Advancing Genetic Research @ Microsoft Research News [[Media]](https://www.microsoft.com/en-us/research/blog/cryptographers-challenge-keeping-genetic-secrets-while-advancing-genetic-research/)
+  
+  * Hot Global Mathematicians of Cryptography @ Donga news. Mar 2015. [[Media]](http://news.donga.com/3/all/20150313/70100744/1)
+
