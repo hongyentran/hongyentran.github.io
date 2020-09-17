@@ -6,13 +6,16 @@ author_profile: true
 ---
 
 
-  * Apparatus for approximately processing encrypted messages and methods thereof
+  * Apparatus for approximately processing encrypted messages and methods thereof [[link]](https://patents.google.com/patent/US20200036511A1/en)
       * US Patent App. US 20200036511A1, Jan. 30, 2020.
       
+  * Method for processing dynamic data by fully homomorphic encryption method [[link]](https://patents.google.com/patent/US20190363872A1/en)
+      * US Patent App. US 20190363872A1, Nov. 28, 2019.
+
   *  Apparatus for processing approximate encrypted messages and methods thereof
       * KR-102040120-B1, Nov. 5, 2019.
      
-  *  Method and system for communicating homomorphically encrypted data
+  *  Method and system for communicating homomorphically encrypted data [[link]](https://patents.google.com/patent/US10198592B2/en)
       * US Patent App. US10198592B2, Feb. 5, 2019. 
       
   *  Method for processing dynamic data by homomorphic encryption
