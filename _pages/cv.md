@@ -25,9 +25,12 @@ Work experience
   * Division of Biomedical Informatics, University of California, San Diego
   * Supervisor: Dr. Xiaoqian Jiang
 
-* May 2018 - present: Assistant Professor
+* May 2018 - July 2020: Assistant Professor
   * School of Biomedical Informatics, University of Texas, Health Science Center at Houston
 
+* August 2020 - present: Assistant Professor
+  * Department of Computer Science and Engineering, Ulsan National Institute of Science and Technology (UNIST)
+  * Graduate School of Artificial Intelligence, UNIST
 
-[[See my CV]](https://k-miran.github.io/files/MiranKim_cv.pdf)
+[[See my CV]](https://k-miran.github.io/files/cv.pdf)
 ======
