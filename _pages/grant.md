@@ -4,7 +4,7 @@ title: ""
 permalink: /grant/
 author_profile: true
 ---
- * PI in Seed grant by UNIST (1.200109): _Secure genomic analysis on encrypted data_ (10.2020-present)
+ * PI in a Seed grant by UNIST (1.200109): _Secure genomic analysis on encrypted data_ (10.2020-present)
 
  * Co-I in an Institute of Information & communications Technology Planning & Evaluation (IITP) by the Korea government (MSIT) (2020-0-01336): _Articifial intelligence graduate school support_ (09.2020-present)
  
