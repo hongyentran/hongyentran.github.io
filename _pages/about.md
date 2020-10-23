@@ -23,6 +23,6 @@ My research mainly focuses on secure computation, which aims to develop advanced
      * Secure outsourced genomic analysis
 
 ## News
- * Our paper titled [Maliciously Secure Matrix Multiplication with Applications to Private Deep Learning](https://eprint.iacr.org/2020/451) is to appear in ASIACRYPT'20.
+ * Our paper titled [Maliciously Secure Matrix Multiplication with Applications to Private Deep Learning](https://eprint.iacr.org/2020/451) was accepted to ASIACRYPT 2020.
  * [iDASH Genome Privacy and Security Competition 2020](http://www.humangenomeprivacy.org/) is now open.
  * I gave a talk on [Lattices: From Theory to Practice](https://simons.berkeley.edu/workshops/schedule/10565) Workshop of the SIMONS Institute.
