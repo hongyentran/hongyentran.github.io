@@ -16,14 +16,15 @@ author_profile: true
       * Hao Chen, Wei Dai, **Miran Kim**, Yongsoo Song
       * Cryptology ePrint Archive, Report 2020/015. 2020. 
   
-  * A Secure System for Genomics Clinical Decision Support
-      * Seemeen Karimi, Xiaoqian Jiang, Robert Dolin, **Miran Kim**, Aziz Boxwala
-      * To appear in _Journal of Biomedical Informatics_, 2020.
       
   * Maliciously Secure Matrix Multiplication with Applications to Private Deep Learning [[pdf]](http://eprint.iacr.org/2020/451)
       * Hao Chen, **Miran Kim**, Ilya Razenshteyn, Dragos Rotaru, Yongsoo Song, Sameer Wagh
       * To appear in _Asiacrypt_, 2020.
 
+  * A Secure System for Genomics Clinical Decision Support [[pdf]](https://www.sciencedirect.com/science/article/pii/S1532046420302306?dgcid=coauthor)
+      * Seemeen Karimi, Xiaoqian Jiang, Robert Dolin, **Miran Kim**, Aziz Boxwala
+      * _Journal of Biomedical Informatics_; 112, 2020.
+      
   * Semi-parallel Logistic Regression for GWAS on Encrypted Data [[pdf]](https://k-miran.github.io/files/2020_BMC_idash18.pdf)
       * **Miran Kim**, Yongsoo Song, Baiyu Li, Daniele Micciancio
       * _BMC Medical Genomics_; 13(7):1-13, 2020. 
