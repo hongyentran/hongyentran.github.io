@@ -14,7 +14,7 @@ author_profile: true
   
   * Efficient Homomorphic Conversion Between (Ring) LWE Ciphertexts [[pdf]](http://eprint.iacr.org/2020/015)
       * Hao Chen, Wei Dai, **Miran Kim**, Yongsoo Song
-      * _Proceedings of International Conference on Applied Cryptography and Network Security (ACNS)_, 2021.
+      * _Proceedings of the International Conference on Applied Cryptography and Network Security (ACNS)_, 2021.
 
   * Maliciously Secure Matrix Multiplication with Applications to Private Deep Learning [[pdf]](http://eprint.iacr.org/2020/451)
       * Hao Chen, **Miran Kim**, Ilya Razenshteyn, Dragos Rotaru, Yongsoo Song, Sameer Wagh
