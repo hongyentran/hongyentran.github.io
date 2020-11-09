@@ -23,6 +23,8 @@ My research mainly focuses on secure computation, which aims to develop advanced
      * Secure outsourced genomic analysis
 
 ## News
+ * Our paper titled "Efficient Homomorphic Conversion Between (Ring) LWE Ciphertexts" was accepted to ACNS 2021.
  * Our paper titled [Maliciously Secure Matrix Multiplication with Applications to Private Deep Learning](https://eprint.iacr.org/2020/451) was accepted to ASIACRYPT 2020.
+ * I am serving on the Organizing Committee for [ASIACRYPT 2020](https://asiacrypt.iacr.org/2020/). Please register for the conference which will be taken place virtually on December 7-11 2020. 
  * [iDASH Genome Privacy and Security Competition 2020](http://www.humangenomeprivacy.org/) is now open.
  * I gave a talk on [Lattices: From Theory to Practice](https://simons.berkeley.edu/workshops/schedule/10565) Workshop of the SIMONS Institute.
