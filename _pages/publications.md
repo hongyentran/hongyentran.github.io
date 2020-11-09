@@ -14,12 +14,11 @@ author_profile: true
   
   * Efficient Homomorphic Conversion Between (Ring) LWE Ciphertexts [[pdf]](http://eprint.iacr.org/2020/015)
       * Hao Chen, Wei Dai, **Miran Kim**, Yongsoo Song
-      * Cryptology ePrint Archive, Report 2020/015. 2020. 
-  
-      
+      * _Proceedings of International Conference on Applied Cryptography and Network Security (ACNS)_, 2021.
+
   * Maliciously Secure Matrix Multiplication with Applications to Private Deep Learning [[pdf]](http://eprint.iacr.org/2020/451)
       * Hao Chen, **Miran Kim**, Ilya Razenshteyn, Dragos Rotaru, Yongsoo Song, Sameer Wagh
-      * To appear in _Asiacrypt_, 2020.
+      * _Proceedings of the International Conference on the Theory and Applications of Cryptology and Information Security (ASIACRYPT)_, 2020. 
 
   * A Secure System for Genomics Clinical Decision Support [[pdf]](https://www.sciencedirect.com/science/article/pii/S1532046420302306?dgcid=coauthor)
       * Seemeen Karimi, Xiaoqian Jiang, Robert Dolin, **Miran Kim**, Aziz Boxwala
@@ -35,7 +34,7 @@ author_profile: true
 
   * Efficient Multi-Key Homomorphic Encryption with Packed Ciphertexts with Application to Oblivious Neural Network Inference [[pdf]](http://eprint.iacr.org/2019/524)
       * Hao Chen, Wei Dai, **Miran Kim**, Yongsoo Song
-      * _ACM Conference on Computer and Communications Security (CCS)_, 2019.
+      * _Proceedings of the ACM SIGSAC Conference on Computer and Communications Security (CCS)_, 2019.
       
   * Secure and Differentially Private Logistic Regression for Horizontally Distributed Data [[pdf]](https://ieeexplore.ieee.org/abstract/document/8747377)
       * **Miran Kim**, Junghye Lee, Lucila Ohno-Machado, Xiaoqian Jiang
@@ -51,15 +50,15 @@ author_profile: true
   
   * Secure Outsourced Matrix Computation and Application to Neural Networks [[pdf]](https://k-miran.github.io/files/2018_HEMat_CCS.pdf) [[code]](https://github.com/K-miran/HEMat)
       * Xiaoqian Jiang, **Miran Kim**, Kristin Lauter, Yongsoo Song
-      * _ACM Conference on Computer and Communications Security (CCS)_, 2018.
+      * _Proceedings of the ACM SIGSAC Conference on Computer and Communications Security (CCS)_, 2018.
    
   * A full RNS Variant of approximate homomorphic encryption [[pdf]](https://k-miran.github.io/files/2018_RNS_SAC.pdf) [[code]](https://github.com/HanKyoohyung/FullRNS-HEAAN)
       * Jung Hee Cheon, Kyoohyung Han, Andrey Kim, **Miran Kim**, Yongsoo Song
-      * _International Conference on Selected Areas in Cryptography (SAC)_, 2018.
+      * _Proceedings of the International Conference on Selected Areas in Cryptography (SAC)_, 2018.
 
   * Bootstrapping for approximate homomorphic encryption [[pdf]](https://k-miran.github.io/files/2018_BTS_Euro.pdf) [[code]](https://github.com/kimandrik/HEAANBOOT)
       * Jung Hee Cheon, Kyoohyung Han, Andrey Kim, **Miran Kim**, Yongsoo Song
-      * _Eurocrypt_, 2018
+      * _Proceedings of the Annual International Conference on the Theory and Applications of Cryptographic Techniques (EUROCRYPT)_, 2018
  
   * Logistic regression model training based on the approximate homomorphic encryption [[pdf]](https://k-miran.github.io/files/2018_BMC_idash17.pdf) [[code]](https://github.com/kimandrik/IDASH2017)
       * Andrey Kim, Yongsoo Song, **Miran Kim**, Kiwoo Lee, Jung Hee Cheon
@@ -71,7 +70,7 @@ author_profile: true
 
   * Homomorphic encryption for arithmetic of approximate numbers [[pdf]](https://k-miran.github.io/files/2017_HEAAN_Asia.pdf) [[code]](https://github.com/snucrypto/HEAAN)
       * Jung Hee Cheon, Andrey Kim, **Miran Kim**, Yongsoo Song
-      * _Asiacrypt_, 2017.
+      * _Proceedings of the International Conference on the Theory and Applications of Cryptology and Information Security (ASIACRYPT)_, 2017.
       
   *  A standard API FOR RLWE-based homomorphic encryption [[url]](https://homomorphicencryption.org/standard/)
       * Michael Brenner, Wei Dai, Shai Halevi, Kyoohyung Han, Amir Jalali, **Miran Kim**, Kim Laine, Alex Malozemoff, Pascal Paillier, Yuriy Polyakov, Kurt Rohloff, Erkay Savas, Berk Sunar
@@ -83,7 +82,7 @@ author_profile: true
       
   * Encrypting controller using fully homomorphic encryption for security of cyber-physical systems [[pdf]](https://k-miran.github.io/files/2016_necsys.pdf)
       * Junsoo Kim, Chanhwa Lee, Hyungboo Shim, Jung Hee Cheon, Andrey Kim, **Miran Kim**, Yongsoo Song
-      * _IFAC Workshop on Distributed Estimation and Control in Networked Systems (NECSYS)_, 2016.
+      * _Proceedings of the IFAC Workshop on Distributed Estimation and Control in Networked Systems (NECSYS)_, 2016.
       
   * Optimized search-and-compute circuits and their application to query evaluation on encrypted data [[pdf]](https://k-miran.github.io/files/2016_PSnC_IFTS.pdf)
       * Jung Hee Cheon, **Miran Kim**, Myungsun Kim
@@ -99,15 +98,15 @@ author_profile: true
       
    * SECRET: Secure Edit-distance Computation over homomoRphic Encrypted daTa [[pdf]](https://k-miran.github.io/files/2015_EditDist_BCB.pdf)
       * Yuchen Zhang, Wenrui Dai, Shuang Wang, **Miran Kim**, Kristin Lauter, Jun Sakuma, Hongkai Xiong, Xiaoqian Jiang
-      * _Annual Translational Bioinformatics Conference (TB)_, 2015.
+      * _Annual Translational Bioinformatics Conference (TBC)_, 2015.
       
    * Search-and-compute on encrypted data [[pdf]](https://k-miran.github.io/files/2015_PSnC_WAHC.pdf)
       * Jung Hee Cheon, **Miran Kim**, Myungsun Kim
-      * _Financial Cryptography and Data Security Workshop (FC)_, 2015.
+      * _Proceedings of the Financial Cryptography and Data Security (FC)_, 2015.
        
    * Homomorphic computation of edit distance [[pdf]](https://k-miran.github.io/files/2015_EditDist_WAHC.pdf)
       * Jung Hee Cheon, **Miran Kim**, Kristin Lauter
-      * _Financial Cryptography and Data Security Workshop (FC)_, 2015.    
+      * _Proceedings of the Financial Cryptography and Data Security (FC)_, 2015.    
       
  
    
