@@ -18,7 +18,7 @@ author_profile: true
 
   * Maliciously Secure Matrix Multiplication with Applications to Private Deep Learning [[pdf]](http://eprint.iacr.org/2020/451)
       * Hao Chen, **Miran Kim**, Ilya Razenshteyn, Dragos Rotaru, Yongsoo Song, Sameer Wagh
-      * _Proceedings of the International Conference on the Theory and Application of Cryptology and Information Security (ASIACRYPT)_, 2020. 
+      * _Advances in Cryptology – ASIACRYPT_, 2020. 
 
   * Homomorphic Computation of Local Alignment
       * Magsarjav Bataa, Siwoo Song, Kunsoo Park, **Miran Kim**, Jung Hee Cheon, and Kim Sun.
@@ -62,7 +62,7 @@ author_profile: true
 
   * Bootstrapping for approximate homomorphic encryption [[pdf]](https://k-miran.github.io/files/2018_BTS_Euro.pdf) [[code]](https://github.com/kimandrik/HEAANBOOT)
       * Jung Hee Cheon, Kyoohyung Han, Andrey Kim, **Miran Kim**, Yongsoo Song
-      * _Proceedings of the Annual International Conference on the Theory and Applications of Cryptographic Techniques (EUROCRYPT)_, 2018
+      * _Advances in Cryptology – EUROCRYPT_, 2018
  
   * Logistic regression model training based on the approximate homomorphic encryption [[pdf]](https://k-miran.github.io/files/2018_BMC_idash17.pdf) [[code]](https://github.com/kimandrik/IDASH2017)
       * Andrey Kim, Yongsoo Song, **Miran Kim**, Kiwoo Lee, Jung Hee Cheon
@@ -74,7 +74,7 @@ author_profile: true
 
   * Homomorphic encryption for arithmetic of approximate numbers [[pdf]](https://k-miran.github.io/files/2017_HEAAN_Asia.pdf) [[code]](https://github.com/snucrypto/HEAAN)
       * Jung Hee Cheon, Andrey Kim, **Miran Kim**, Yongsoo Song
-      * _Proceedings of the International Conference on the Theory and Application of Cryptology and Information Security (ASIACRYPT)_, 2017.
+      * _Advances in Cryptology – ASIACRYPT_, 2017. 
       
   *  A standard API FOR RLWE-based homomorphic encryption [[url]](https://homomorphicencryption.org/standard/)
       * Michael Brenner, Wei Dai, Shai Halevi, Kyoohyung Han, Amir Jalali, **Miran Kim**, Kim Laine, Alex Malozemoff, Pascal Paillier, Yuriy Polyakov, Kurt Rohloff, Erkay Savas, Berk Sunar
