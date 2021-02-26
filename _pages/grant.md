@@ -4,11 +4,13 @@ title: ""
 permalink: /grant/
 author_profile: true
 ---
- * PI in a Seed grant by UNIST (1.200109): _Secure genomic analysis on encrypted data_ (10.2020-present)
-
- * Co-I in an Institute of Information & communications Technology Planning & Evaluation (IITP) by the Korea government (MSIT) (2020-0-01336): _Articifial intelligence graduate school support_ (09.2020-present)
+ * PI in a National Research Foundation of Korea (NRF): _Development of Privacy-Preserving Deep Learning Platform for Vision Artificial Intelligence_ (03/01/2021-present)
  
- * Microsoft Research Award - _Research Collaboration_ (09.2019-07.2020) 
+ * PI by UNIST (1.200109): _Secure genomic analysis on encrypted data_ (10/01/2020-present)
+
+ * Co-I in an Institute of Information & communications Technology Planning & Evaluation (IITP) by the Korea government (MSIT) (2020-0-01336): _Articifial intelligence graduate school support_ (09/01/2020-present)
+ 
+ * Microsoft Research Gift (2019-2020)
  
  * Co-PI in an R41 grant by National Institutes of Health (NIH) (R41HG010978): _Secure outsourced computation of genomic data_ (09.2019-07.2020)
 
