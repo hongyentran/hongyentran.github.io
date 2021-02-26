@@ -20,7 +20,7 @@ author_profile: true
       * Hao Chen, **Miran Kim**, Ilya Razenshteyn, Dragos Rotaru, Yongsoo Song, Sameer Wagh
       * _Advances in Cryptology – ASIACRYPT_, 2020. 
 
-  * Homomorphic Computation of Local Alignment [[pdf]](https://www.sciencedirect.com/science/article/pii/S1532046420302306?dgcid=coauthor)
+  * Homomorphic Computation of Local Alignment [[pdf]](https://ieeexplore.ieee.org/abstract/document/9313199)
       * Magsarjav Bataa, Siwoo Song, Kunsoo Park, **Miran Kim**, Jung Hee Cheon, and Kim Sun.
       * _IEEE International Conference on Bioinformatics and Biomedicine (BIBM)_, 2020.
       
