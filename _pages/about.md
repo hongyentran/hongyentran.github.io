@@ -18,8 +18,8 @@ Email : mirankim at unist dot ac dot kr or mirankim618 at gmail dot com <br />
 My research mainly focuses on secure computation, which aims to develop advanced cryptographic primitives to protect sensitive data of individuals. I have been actively working on the development of privacy-preserving protocols in a wide range of applications such as cyber-physical systems, data query processing, genomic computation, and machine learning. In particular, I received multiple first prizes on secure outsourcing genome analysis of [iDASH Genome Privacy and Security Competition](http://www.humangenomeprivacy.org/) (supported by National Institutes of Health), which report state-of-the-art performance of cryptographic schemes in real-world biomedical problems. As a noteworthy service to the scientific community, I serve as the organizer of the iDASH privacy competition since 2019.
 
  * Areas of Expertise
-     * Secure computation (Homomorphic Encryption)
-     * Privacy-preserving machine learning
+     * Cryptology: Secure computation (Homomorphic Encryption)
+     * (Privacy-preserving) Machine Learning
      * Secure outsourced genomic analysis
 
 ## News
