@@ -22,7 +22,7 @@ author_profile: true
 
   * Homomorphic Computation of Local Alignment
       * Magsarjav Bataa, Siwoo Song, Kunsoo Park, **Miran Kim**, Jung Hee Cheon, and Kim Sun.
-      * _International Workshop on High Performance Computing on Bioinformatics (HPCB)_, 2020.
+      * _IEEE International Conference on Bioinformatics and Biomedicine (BIBM)_, 2020.
       
   * A Secure System for Genomics Clinical Decision Support [[pdf]](https://www.sciencedirect.com/science/article/pii/S1532046420302306?dgcid=coauthor)
       * Seemeen Karimi, Xiaoqian Jiang, Robert Dolin, **Miran Kim**, Aziz Boxwala
