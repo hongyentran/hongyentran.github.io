@@ -5,13 +5,15 @@ permalink: /patent/
 author_profile: true
 ---
 
-
+  * Performing computations on sensitive data while guaranteeing privacy [[link]](https://www.freepatentsonline.com/y2021/0058229.html) 
+      * US Patent App. US 20210058229A1, Feb. 25, 2021.
+      *
+  * Method for processing dynamic data by fully homomorphic encryption method [[link]](https://patents.google.com/patent/US10924262B2/en)
+      * US Patent App. US 10924262B2, Feb. 16, 2021.
+ 
   * Apparatus for approximately processing encrypted messages and methods thereof [[link]](https://patents.google.com/patent/US20200036511A1/en)
       * US Patent App. US 20200036511A1, Jan. 30, 2020.
       
-  * Method for processing dynamic data by fully homomorphic encryption method [[link]](https://patents.google.com/patent/US20190363872A1/en)
-      * US Patent App. US 20190363872A1, Nov. 28, 2019.
-
   *  Apparatus for processing approximate encrypted messages and methods thereof
       * KR-102040120-B1, Nov. 5, 2019.
      
