@@ -21,7 +21,7 @@ author_profile: true
       * _Advances in Cryptology – ASIACRYPT_, 2020. 
 
   * Homomorphic Computation of Local Alignment [[pdf]](https://ieeexplore.ieee.org/abstract/document/9313199)
-      * Magsarjav Bataa, Siwoo Song, Kunsoo Park, **Miran Kim**, Jung Hee Cheon, and Kim Sun.
+      * Magsarjav Bataa, Siwoo Song, Kunsoo Park, **Miran Kim**, Jung Hee Cheon, and Sun Kim.
       * _IEEE International Conference on Bioinformatics and Biomedicine (BIBM)_, 2020.
       
   * A Secure System for Genomics Clinical Decision Support [[pdf]](https://www.sciencedirect.com/science/article/pii/S1532046420302306?dgcid=coauthor)
