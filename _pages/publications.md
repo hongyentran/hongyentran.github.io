@@ -4,6 +4,10 @@ title: ""
 permalink: /publications/
 author_profile: true
 ---
+  * HEAR: Human Action Recognition via Neural Networks on Homomorphically Encrypted Data [[pdf]](https://arxiv.org/abs/2104.09164)
+      * **Miran Kim**, Xiaoqian Jiang, Kristin Lauter, Elkhan Ismayilzada, Shayan Shams
+      * arXiv:2104.09164. 2021. 
+      
   * Ultra-Fast Homomorphic Encryption Models enable Secure Outsourcing of Genotype Imputation [[pdf]](https://www.biorxiv.org/content/10.1101/2020.07.02.183459v2)
       * **Miran Kim**, Arif Harmanci, Jean-Philippe Bossuat, Sergiu Carpov, Jung Hee Cheon, Ilaria Chillotti, Wonhee Cho, David Froelicher, Nicolas Gama, Mariya Georgieva, Seungwan Hong, Jean-Pierre Hubaux, Duhyeong Kim, Kristin Lauter, Yiping Ma, Lucila Ohno-Machado, Heidi Sofia, Yongha Son, Yongsoo Song, Juan Troncoso-Pastoriza,  Xiaoqian Jiang
       * bioRxiv: 2020.07.02.183459. 2020.
