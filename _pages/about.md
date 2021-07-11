@@ -28,6 +28,6 @@ My research mainly focuses on secure computation, which aims to develop advanced
 ## News
  * I serve as the Organizer for iDASH Genome Privacy and Security Competition 2021](http://www.humangenomeprivacy.org/). We have just open registration! 
  * Our paper titled [Ultra-Fast Homomorphic Encryption Models enable Secure Outsourcing of Genotype Imputation](https://www.biorxiv.org/content/10.1101/2020.07.02.183459v2) is to appear in Cell Systems. 
- * Our paper titled [Efficient Homomorphic Conversion Between (Ring) LWE Ciphertexts](https://eprint.iacr.org/2020/015.pdf) was accepted to ACNS 2021.
+ * Our paper titled [Efficient Homomorphic Conversion Between (Ring) LWE Ciphertexts](https://eprint.iacr.org/2020/015.pdf) was presented to ACNS 2021.
  * Our paper titled [Maliciously Secure Matrix Multiplication with Applications to Private Deep Learning](https://eprint.iacr.org/2020/451) was presented at ASIACRYPT 2020.
  * Our paper titled [Homomorphic Computation of Local Alignment](https://ieeexplore.ieee.org/abstract/document/9313199) was presented at BIBM 2020.
