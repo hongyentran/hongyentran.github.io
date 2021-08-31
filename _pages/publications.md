@@ -7,7 +7,7 @@ author_profile: true
   * HEAR: Human Action Recognition via Neural Networks on Homomorphically Encrypted Data [[pdf]](https://arxiv.org/abs/2104.09164)
       * **Miran Kim**, Xiaoqian Jiang, Kristin Lauter, Elkhan Ismayilzada, Shayan Shams
       * arXiv:2104.09164. 2021. 
-      * 
+      
    * Secure and Differentially Private Bayesian Learning on Distributed Data [[pdf]](https://arxiv.org/abs/2005.11007)
       * Yeongjae Gil, Xiaoqian Jiang, **Miran Kim**, Junghye Lee
       * arXiv:2005.11007. 2020.  
