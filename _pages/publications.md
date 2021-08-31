@@ -7,15 +7,15 @@ author_profile: true
   * HEAR: Human Action Recognition via Neural Networks on Homomorphically Encrypted Data [[pdf]](https://arxiv.org/abs/2104.09164)
       * **Miran Kim**, Xiaoqian Jiang, Kristin Lauter, Elkhan Ismayilzada, Shayan Shams
       * arXiv:2104.09164. 2021. 
-      
-  * Ultra-Fast Homomorphic Encryption Models enable Secure Outsourcing of Genotype Imputation [[pdf]](https://www.biorxiv.org/content/10.1101/2020.07.02.183459v2)
-      * **Miran Kim**, Arif Harmanci, Jean-Philippe Bossuat, Sergiu Carpov, Jung Hee Cheon, Ilaria Chillotti, Wonhee Cho, David Froelicher, Nicolas Gama, Mariya Georgieva, Seungwan Hong, Jean-Pierre Hubaux, Duhyeong Kim, Kristin Lauter, Yiping Ma, Lucila Ohno-Machado, Heidi Sofia, Yongha Son, Yongsoo Song, Juan Troncoso-Pastoriza,  Xiaoqian Jiang
-      * bioRxiv: 2020.07.02.183459. 2020.
-
-  * Secure and Differentially Private Bayesian Learning on Distributed Data [[pdf]](https://arxiv.org/abs/2005.11007)
+      * 
+   * Secure and Differentially Private Bayesian Learning on Distributed Data [[pdf]](https://arxiv.org/abs/2005.11007)
       * Yeongjae Gil, Xiaoqian Jiang, **Miran Kim**, Junghye Lee
-      * arXiv:2005.11007. 2020. 
-  
+      * arXiv:2005.11007. 2020.  
+          
+  * Ultra-Fast Homomorphic Encryption Models enable Secure Outsourcing of Genotype Imputation [[pdf]](https://www.cell.com/cell-systems/fulltext/S2405-4712(21)00288-X) [[code]](https://github.com/K-miran/secure-imputation)
+      * **Miran Kim**, Arif Harmanci, Jean-Philippe Bossuat, Sergiu Carpov, Jung Hee Cheon, Ilaria Chillotti, Wonhee Cho, David Froelicher, Nicolas Gama, Mariya Georgieva, Seungwan Hong, Jean-Pierre Hubaux, Duhyeong Kim, Kristin Lauter, Yiping Ma, Lucila Ohno-Machado, Heidi Sofia, Yongha Son, Yongsoo Song, Juan Troncoso-Pastoriza,  Xiaoqian Jiang
+      * _Cell Systems_; 2021.
+      
   * Efficient Homomorphic Conversion Between (Ring) LWE Ciphertexts [[pdf]](http://eprint.iacr.org/2020/015)
       * Hao Chen, Wei Dai, **Miran Kim**, Yongsoo Song
       * _Proceedings of the International Conference on Applied Cryptography and Network Security (ACNS)_, 2021.
