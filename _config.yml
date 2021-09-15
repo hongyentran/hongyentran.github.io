@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Miran Kim"
+title                    : "Yen Tran"
 title_separator          : "-"
-name                     : &name "Miran Kim"
-description              : &description "personal description"
-url                      : https://k-miran.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Yen Tran"
+description              : &description "PhD student at UNSW"
+url                      : https://nicefunny.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "nicefunny.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Miran Kim"
-  avatar           : "Miran.jpg"
-  bio              : "Assistant professor at UNIST"
-  location         : "South Korea"
+  name             : "Yen Tran"
+  avatar           : "yentran.jpg"
+  bio              : "PhD Student at UNSW"
+  location         : "Canberra, Australia"
   employer         :
-  googlescholar    : "https://scholar.google.com/citations?user=KxbEfJcAAAAJ&hl=en"
-  email            : "mirankim618@gmail.com"
+  googlescholar    : "http://scholar.google.com/yentran"
+  email            : "yen306@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -94,13 +94,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "k-miran"
+  github           : "nicefunny"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/0000-0003-3564-6090"
+  orcid            : "http://orcid.org/yentran"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
